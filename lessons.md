@@ -6,7 +6,7 @@ The practice lessons in course order. All paths are relative to this repository.
 
 | Lesson | Files |
 | --- | --- |
-| Practice: Claude App Hands-On - Account, Settings and the Practice Files | `files/policy-v1.pdf`, `files/emails/lamp-day40.txt` |
+| Practice: Claude App Hands-On - Account, Settings and the Practice Files | `files/policy-v1.pdf` |
 
 ## Section 2 - Prompting and Task Execution
 
@@ -26,7 +26,7 @@ Start state: `start/start-s3.md`.
 | --- | --- |
 | Practice: Claude App Hands-On - Four Tasks, Four Features | `files/tasks/four-tasks.md`, `files/policy-v1.pdf` |
 | Practice: Claude App Hands-On - The Lightest Model That Meets the Bar | `files/emails/order-status-emails.txt`, `files/emails/order-status-hard.txt`, `files/order-status.csv`, `files/tasks/order-status-criteria.md`, `files/policy-v1.pdf` |
-| Practice: Claude App Hands-On - A Handoff Summary and the Memory Screen | your long chat from Section 2 (the three-step practice), `files/policy-v1.pdf` |
+| Practice: Claude App Hands-On - A Handoff Summary and the Memory Screen | your long chat from Section 2 (the three-step practice) or `files/catch-up/long-chat.md`, `files/policy-v1.pdf` |
 
 ## Section 4 - Projects, Instructions and Knowledge
 

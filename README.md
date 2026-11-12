@@ -27,10 +27,11 @@ DemoHome is an online store for home goods (lamps, kitchenware, textiles, small 
 | `files/complaint-log.csv` | The support team's complaint log for Q3 2026 (July to September). No personal data. | Sections 2, 5, 6, 7 |
 | `files/orders-export-raw.csv` | An export from the order system with made-up personal data. Only for the de-identification practice. | Section 6 |
 | `files/order-status.csv` | The status of the orders in the order-status emails. | Section 3 |
-| `files/emails/` | Customer emails, the returns team's email about Version 2, the agency's request, the operations director's brief and answers. | Sections 1-7 |
+| `files/emails/` | Customer emails, the returns team's email about Version 2, the agency's request, the operations director's brief and answers. | Sections 2-7 |
 | `files/memos/finance-memo-frequent-returns.pdf` | A one-page finance memo, "Frequent returns are a sign of abuse". | Section 5 |
 | `files/memos/ai-use-policy.pdf` | DemoHome's one-page AI use policy. | Section 6 |
 | `files/tasks/` | Task sheets: four tasks for four features, classification labels, reason codes, criteria for order-status replies. | Sections 2, 3, 5 |
+| `files/catch-up/` | If you join later: the checked complaint summary and the whole three-step chat from Section 2, as recorded. | Sections 3, 5, 7 |
 | `files/project/instruction-short.txt` | The first, short instruction of ShopAssist Returns. | Section 4 |
 | `files/drive/DemoHome Return Policy v2.docx` | Version 2 as a shared document for Google Drive. Its return shipping table is a picture. | Section 4 |
 
