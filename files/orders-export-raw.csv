@@ -1,0 +1,401 @@
+order_id,order_date,delivery_date,customer_name,email,phone,street_address,city,region,postal_code,country,account_number,card_last4,sku,product,quantity,order_total_usd,return_reason,return_requested_date
+DH-306813,2026-07-01,2026-07-15,Hannah Hayes,hannah.hayes@example.com,+1 555-0142,604 Elm Court,Madison,WI,53724,US,ACC-7399541,8749,HG-3318,Cotton throw blanket,1,48.00,,
+DH-307113,2026-07-01,2026-07-09,Rachel Coleman,rachel.coleman@example.com,,111 Lakeview Road,Ghent,,9060,BE,ACC-4105268,7688,HG-3301,"Linen duvet cover, queen",1,89.00,changed_mind,2026-08-21
+DH-347823,2026-07-01,2026-07-05,Kevin Reed,kevin.reed@example.org,+1 555-0150,571 Elm Court,Tucson,AZ,85790,US,ACC-1389606,3316,HG-3318,Cotton throw blanket,1,48.00,changed_mind,2026-07-28
+DH-365493,2026-07-01,2026-07-04,Tomas Bennett,tomas.bennett@example.org,+1 555-0150,903 Hillside Avenue,Tucson,AZ,85790,US,ACC-3806321,2500,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,changed_mind,2026-07-08
+DH-401080,2026-07-01,2026-07-05,Laura Price,laura.price@example.org,+33 1 99 00 75 47,757 River Street,Lyon,,69036,FR,ACC-6390497,9590,HG-2230,Glass pendant shade,2,108.00,,
+DH-334035,2026-07-02,2026-07-05,Olivia Carter,olivia.carter@example.com,+1 555-0135,678 Maple Street,Columbus,OH,43273,US,ACC-4865028,1300,HG-2207,Ceramic table lamp,1,64.00,wrong_item,2026-08-07
+DH-371102,2026-07-02,2026-07-09,Laura Berg,laura.berg@example.com,+33 1 99 00 32 44,399 Lakeview Road,Lyon,,69064,FR,ACC-6858126,1467,HG-1150,"Cast iron skillet, 10 inch",1,36.00,changed_mind,2026-08-04
+DH-411368,2026-07-02,2026-07-07,Karen Kowalski,karen.kowalski@example.net,+1 555-0198,431 Maple Street,Portland,OR,97249,US,ACC-5105689,1478,HG-4402,Oak side table,1,119.00,,
+DH-438524,2026-07-02,2026-07-05,Eric Wallace,eric.wallace@example.com,+1 555-0114,600 Hillside Avenue,Raleigh,NC,27663,US,ACC-9265027,7376,HG-2207,Ceramic table lamp,1,64.00,wrong_item,2026-07-31
+DH-490910,2026-07-02,2026-07-14,Ines Hughes,ines.hughes@example.net,,802 Cedar Lane,Porto,,4000-039,PT,ACC-4258743,4430,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,wrong_item,2026-07-31
+DH-498257,2026-07-02,2026-07-09,Ava Rice,ava.rice2@example.net,+1 555-0169,641 Elm Court,Raleigh,NC,27658,US,ACC-6160627,4776,HG-2207,Ceramic table lamp,1,64.00,wrong_item,2026-08-10
+DH-442172,2026-07-03,2026-07-06,Daniel Vermeer,daniel.vermeer@example.net,+1 555-0157,759 Cedar Lane,Austin,TX,78786,US,ACC-2728598,2174,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,,
+DH-480723,2026-07-03,2026-07-10,Lisa Morgan,lisa.morgan@example.com,+1 555-0111,338 Birch Drive,Omaha,NE,68175,US,ACC-9577075,1467,HG-1104,"Stoneware dinner plates, set of 4",2,84.00,,
+DH-490943,2026-07-03,2026-07-10,Jennifer Barnes,jennifer.barnes@example.org,+1 555-0181,182 Elm Court,Portland,OR,97278,US,ACC-2916613,7196,HG-2215,Brass floor lamp,2,258.00,,
+DH-301673,2026-07-04,2026-07-10,Matteo Bennett,matteo.bennett@example.org,+1 555-0176,862 Park Place,Omaha,NE,68198,US,ACC-6721914,9927,HG-4402,Oak side table,1,119.00,,
+DH-310716,2026-07-04,2026-07-11,Ava Jansen,ava.jansen@example.net,+1 555-0192,862 Cedar Lane,Raleigh,NC,27661,US,ACC-1388202,8540,HG-3318,Cotton throw blanket,1,48.00,,
+DH-326873,2026-07-04,2026-07-07,Ryan Mills,ryan.mills@example.com,+1 555-0105,785 Lakeview Road,Columbus,OH,43235,US,ACC-8595153,5009,HG-4402,Oak side table,2,238.00,,
+DH-348468,2026-07-04,2026-07-12,Susan Barnes,susan.barnes@example.net,+1 555-0185,55 Birch Drive,Austin,TX,78719,US,ACC-3098407,8415,HG-3318,Cotton throw blanket,1,48.00,,
+DH-353226,2026-07-04,2026-07-07,Brian Kowalski,brian.kowalski@example.net,,590 Willow Way,Leipzig,,04148,DE,ACC-9920101,7686,HG-3325,"Wool rug, 5 x 7 ft",1,159.00,,
+DH-453617,2026-07-04,2026-07-13,Ethan Ward,ethan.ward@example.net,+1 555-0116,301 Maple Street,Columbus,OH,43233,US,ACC-3777310,2869,HG-2207,Ceramic table lamp,1,64.00,wrong_item,2026-08-14
+DH-374974,2026-07-05,2026-07-09,Rachel Bennett,rachel.bennett@example.net,+1 555-0178,477 Pine Road,Denver,CO,80202,US,ACC-7685359,4544,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,,
+DH-422855,2026-07-05,2026-07-09,Elise Fisher,elise.fisher@example.org,+1 555-0171,72 Meadow Lane,Omaha,NE,68166,US,ACC-2279050,8370,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,,
+DH-379819,2026-07-06,2026-07-14,Maria Holmes,maria.holmes@example.org,+1 555-0193,489 Oak Avenue,Denver,CO,80224,US,ACC-1960645,4796,HG-4402,Oak side table,1,119.00,,
+DH-393304,2026-07-06,2026-07-11,Megan Morgan,megan.morgan@example.org,+1 555-0108,331 Meadow Lane,Boise,ID,83787,US,ACC-6406943,4117,HG-1132,"Glass storage jars, set of 3",1,28.00,,
+DH-449885,2026-07-06,2026-07-11,Ryan Ward,ryan.ward@example.com,+1 555-0167,486 Hillside Avenue,Boise,ID,83760,US,ACC-8424858,7433,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,,
+DH-305854,2026-07-07,2026-07-12,Jennifer Weber,jennifer.weber@example.com,+1 555-0153,847 Maple Street,Omaha,NE,68111,US,ACC-8770649,0653,HG-4410,Folding bookshelf,1,94.00,,
+DH-310915,2026-07-07,2026-07-13,Tomas Barnes,tomas.barnes@example.com,+1 555-0197,489 Willow Way,Austin,TX,78762,US,ACC-2040820,4486,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,,
+DH-326893,2026-07-07,2026-07-16,Jason Ward,jason.ward@example.net,+1 555-0161,469 Park Place,Portland,OR,97269,US,ACC-7862621,7283,HG-4402,Oak side table,1,119.00,damaged,2026-07-25
+DH-402438,2026-07-07,2026-07-21,Noah Jansen,noah.jansen@example.com,+1 555-0167,384 River Street,Tucson,AZ,85721,US,ACC-3101457,0184,HG-2215,Brass floor lamp,1,129.00,,
+DH-427160,2026-07-07,2026-07-12,Megan Bennett,megan.bennett@example.com,+1 555-0158,948 Cedar Lane,Richmond,VA,23210,US,ACC-9047316,2377,HG-2207,Ceramic table lamp,2,128.00,,
+DH-463240,2026-07-07,2026-07-12,Mia Mills,mia.mills@example.com,+1 555-0115,71 Meadow Lane,Tucson,AZ,85728,US,ACC-2275871,2797,HG-1150,"Cast iron skillet, 10 inch",1,36.00,damaged,2026-08-15
+DH-349384,2026-07-08,2026-07-15,Mia Reed,mia.reed@example.org,+1 555-0116,111 Birch Drive,Raleigh,NC,27682,US,ACC-8729194,6360,HG-2215,Brass floor lamp,1,129.00,changed_mind,2026-08-02
+DH-484969,2026-07-08,2026-07-15,Ava Rice,ava.rice@example.net,+1 555-0167,358 Willow Way,Madison,WI,53752,US,ACC-5530116,3380,HG-3325,"Wool rug, 5 x 7 ft",1,159.00,,
+DH-304045,2026-07-09,2026-07-20,Kevin Mills,kevin.mills@example.net,+1 555-0167,609 Meadow Lane,Boise,ID,83786,US,ACC-7163738,3324,HG-4402,Oak side table,1,119.00,,
+DH-411753,2026-07-09,2026-07-23,Hannah Palmer,hannah.palmer@example.org,+1 555-0172,666 Meadow Lane,Columbus,OH,43245,US,ACC-3363617,4114,HG-3318,Cotton throw blanket,1,48.00,,
+DH-303557,2026-07-10,2026-07-16,Jason Porter,jason.porter@example.org,+1 555-0125,606 Maple Street,Omaha,NE,68155,US,ACC-4642646,4531,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,,
+DH-354614,2026-07-10,2026-07-14,Chloe Holmes,chloe.holmes@example.com,+1 555-0198,767 Elm Court,Portland,OR,97241,US,ACC-2923443,3738,HG-2230,Glass pendant shade,2,108.00,,
+DH-388170,2026-07-10,2026-07-15,Brian Fox,brian.fox@example.com,+1 555-0171,375 Willow Way,Boise,ID,83776,US,ACC-7785797,6791,HG-2207,Ceramic table lamp,1,64.00,damaged,2026-08-05
+DH-413260,2026-07-10,2026-07-23,Ethan Hayes,ethan.hayes@example.org,+1 555-0182,231 Meadow Lane,Raleigh,NC,27635,US,ACC-3917371,1757,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,,
+DH-446479,2026-07-10,2026-07-15,Lisa Dixon,lisa.dixon@example.com,+1 555-0188,644 Hillside Avenue,Columbus,OH,43241,US,ACC-4768514,7974,HG-1132,"Glass storage jars, set of 3",1,28.00,changed_mind,2026-08-12
+DH-369416,2026-07-11,2026-07-15,Chloe Lindqvist,chloe.lindqvist@example.org,+1 555-0120,906 River Street,Madison,WI,53757,US,ACC-1877285,3179,HG-2215,Brass floor lamp,1,129.00,changed_mind,2026-07-17
+DH-413874,2026-07-11,2026-07-15,David Weber,david.weber@example.com,+1 555-0154,686 Hillside Avenue,Madison,WI,53777,US,ACC-9719903,1354,HG-3318,Cotton throw blanket,1,48.00,,
+DH-434201,2026-07-11,2026-07-18,Marta Porter,marta.porter@example.net,+1 555-0131,821 Maple Street,Austin,TX,78715,US,ACC-1294202,0567,HG-3318,Cotton throw blanket,1,48.00,,
+DH-325313,2026-07-12,2026-07-19,Jennifer Kowalski,jennifer.kowalski@example.net,,341 Elm Court,Utrecht,,3562 AB,NL,ACC-9831229,0507,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,,
+DH-385460,2026-07-12,2026-07-20,Robert Dixon,robert.dixon@example.com,+1 555-0121,670 Maple Street,Madison,WI,53797,US,ACC-8273540,1642,HG-3318,Cotton throw blanket,1,48.00,damaged,2026-08-10
+DH-388872,2026-07-12,2026-07-15,Rachel Wallace,rachel.wallace@example.net,+1 555-0105,323 Pine Road,Boise,ID,83761,US,ACC-9019293,0746,HG-1150,"Cast iron skillet, 10 inch",1,36.00,,
+DH-396845,2026-07-12,2026-07-18,Elise Coleman,elise.coleman2@example.net,+1 555-0110,313 River Street,Boise,ID,83729,US,ACC-5586098,6205,HG-2215,Brass floor lamp,1,129.00,,
+DH-473584,2026-07-12,2026-07-17,Ethan Lindqvist,ethan.lindqvist@example.com,+1 555-0170,256 Cedar Lane,Columbus,OH,43235,US,ACC-7110476,6450,HG-2215,Brass floor lamp,2,258.00,,
+DH-311468,2026-07-13,2026-07-21,Kevin Griffin,kevin.griffin@example.org,+1 555-0117,386 Birch Drive,Boise,ID,83705,US,ACC-7236805,8001,HG-2215,Brass floor lamp,1,129.00,,
+DH-365103,2026-07-13,2026-07-21,Daniel Foster,daniel.foster@example.net,+1 555-0129,888 Elm Court,Richmond,VA,23292,US,ACC-5121515,0046,HG-2230,Glass pendant shade,1,54.00,wrong_item,2026-08-27
+DH-476323,2026-07-13,2026-07-19,Nancy Fisher,nancy.fisher@example.org,+1 555-0195,932 Willow Way,Columbus,OH,43293,US,ACC-6108575,9022,HG-2207,Ceramic table lamp,2,128.00,,
+DH-476828,2026-07-13,2026-07-16,Sophie Spencer,sophie.spencer@example.com,,402 Hillside Avenue,Porto,,4000-059,PT,ACC-4762647,2642,HG-3301,"Linen duvet cover, queen",2,178.00,damaged,2026-07-19
+DH-338384,2026-07-14,2026-07-19,David Holmes,david.holmes@example.net,+1 555-0162,150 Lakeview Road,Denver,CO,80205,US,ACC-7835741,3793,HG-3301,"Linen duvet cover, queen",1,89.00,changed_mind,2026-08-28
+DH-371435,2026-07-14,2026-07-20,Sophie Hart,sophie.hart@example.org,+1 555-0183,108 Birch Drive,Raleigh,NC,27635,US,ACC-5691083,9760,HG-3318,Cotton throw blanket,2,96.00,wrong_item,2026-09-01
+DH-488496,2026-07-14,2026-07-28,Lisa Fisher,lisa.fisher@example.org,+1 555-0176,952 River Street,Richmond,VA,23271,US,ACC-9532120,4837,HG-4402,Oak side table,1,119.00,changed_mind,2026-08-27
+DH-373302,2026-07-15,2026-07-29,Marta Russell,marta.russell@example.org,+1 555-0180,108 Park Place,Richmond,VA,23292,US,ACC-4237536,0096,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,,
+DH-410744,2026-07-15,2026-07-20,Emily Kowalski,emily.kowalski@example.net,+33 1 99 00 26 34,757 River Street,Lyon,,69075,FR,ACC-6444877,3188,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,,
+DH-410756,2026-07-15,2026-07-22,Eric Bennett,eric.bennett@example.com,+1 555-0100,309 Pine Road,Boise,ID,83723,US,ACC-4588786,8249,HG-3301,"Linen duvet cover, queen",1,89.00,,
+DH-418466,2026-07-15,2026-07-21,Brian Bennett,brian.bennett@example.com,,149 Oak Avenue,Graz,,8048,AT,ACC-8172316,7200,HG-2230,Glass pendant shade,1,54.00,,
+DH-421932,2026-07-15,2026-07-22,Linda Vermeer,linda.vermeer@example.org,+1 555-0105,708 Oak Avenue,Denver,CO,80268,US,ACC-6034774,2600,HG-2215,Brass floor lamp,1,129.00,,
+DH-429523,2026-07-15,2026-07-20,Ethan Foster,ethan.foster@example.org,+1 555-0121,633 Hillside Avenue,Madison,WI,53703,US,ACC-9884405,5411,HG-2215,Brass floor lamp,2,258.00,,
+DH-313291,2026-07-16,2026-07-25,Ava Price,ava.price@example.net,+1 555-0131,401 Oak Avenue,Richmond,VA,23223,US,ACC-5985807,1883,HG-1150,"Cast iron skillet, 10 inch",2,72.00,,
+DH-315448,2026-07-16,2026-07-23,Felix Hayes,felix.hayes@example.org,+1 555-0128,120 Maple Street,Tucson,AZ,85737,US,ACC-2235659,5878,HG-2207,Ceramic table lamp,1,64.00,changed_mind,2026-09-03
+DH-329528,2026-07-16,2026-07-24,Jason Hart,jason.hart2@example.org,+1 555-0141,262 Willow Way,Portland,OR,97297,US,ACC-7844423,8169,HG-3318,Cotton throw blanket,1,48.00,,
+DH-337109,2026-07-16,2026-07-24,Ryan Bennett,ryan.bennett@example.org,+1 555-0198,667 Lakeview Road,Richmond,VA,23293,US,ACC-6422152,8547,HG-3301,"Linen duvet cover, queen",1,89.00,damaged,2026-08-30
+DH-360032,2026-07-16,2026-07-22,Lukas Morgan,lukas.morgan@example.org,+1 555-0143,787 River Street,Richmond,VA,23279,US,ACC-5401933,9009,HG-4402,Oak side table,1,119.00,damaged,2026-09-03
+DH-369939,2026-07-16,2026-07-27,Clara Jansen,clara.jansen@example.net,+1 555-0138,767 Lakeview Road,Portland,OR,97234,US,ACC-8910396,2543,HG-4410,Folding bookshelf,1,94.00,,
+DH-377793,2026-07-16,2026-07-22,Sophie Reed,sophie.reed@example.com,+1 555-0182,825 Maple Street,Boise,ID,83704,US,ACC-2015618,0116,HG-2207,Ceramic table lamp,2,128.00,,
+DH-381237,2026-07-16,2026-07-23,Ethan Reed,ethan.reed@example.com,,199 Pine Road,Porto,,4000-062,PT,ACC-2853859,0898,HG-4402,Oak side table,2,238.00,changed_mind,2026-08-11
+DH-464047,2026-07-16,2026-07-22,Jason Spencer,jason.spencer@example.com,+1 555-0106,957 River Street,Denver,CO,80244,US,ACC-9167845,4268,HG-3325,"Wool rug, 5 x 7 ft",2,318.00,,
+DH-474564,2026-07-16,2026-07-19,Lukas Griffin,lukas.griffin@example.net,+1 555-0120,603 Birch Drive,Denver,CO,80296,US,ACC-7590077,2281,HG-1132,"Glass storage jars, set of 3",1,28.00,,
+DH-478601,2026-07-16,2026-07-21,Mark Barnes,mark.barnes@example.net,+1 555-0114,825 Oak Avenue,Tucson,AZ,85760,US,ACC-8375938,5720,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,wrong_item,2026-08-10
+DH-429899,2026-07-17,2026-07-21,Leon Berg,leon.berg@example.net,+1 555-0144,893 River Street,Portland,OR,97229,US,ACC-9247494,4889,HG-4402,Oak side table,1,119.00,wrong_item,2026-07-23
+DH-448952,2026-07-17,2026-07-20,Hannah Hayes,hannah.hayes@example.org,,583 Oak Avenue,Graz,,8070,AT,ACC-7812913,8938,HG-1104,"Stoneware dinner plates, set of 4",2,84.00,wrong_item,2026-08-31
+DH-479768,2026-07-17,2026-07-21,Linda Fisher,linda.fisher@example.org,+1 555-0121,213 Oak Avenue,Richmond,VA,23286,US,ACC-7660283,5999,HG-3301,"Linen duvet cover, queen",1,89.00,wrong_item,2026-08-11
+DH-490671,2026-07-17,2026-07-24,Ava Dubois,ava.dubois@example.net,+1 555-0193,8 Willow Way,Omaha,NE,68144,US,ACC-9825482,5838,HG-1150,"Cast iron skillet, 10 inch",1,36.00,,
+DH-323077,2026-07-18,2026-07-24,Steven Weber,steven.weber@example.com,+1 555-0117,740 Hillside Avenue,Omaha,NE,68154,US,ACC-8795161,6568,HG-2207,Ceramic table lamp,2,128.00,damaged,2026-07-27
+DH-342893,2026-07-18,2026-07-22,Leon Bennett,leon.bennett@example.com,+1 555-0183,358 Lakeview Road,Columbus,OH,43264,US,ACC-7471354,6810,HG-1132,"Glass storage jars, set of 3",1,28.00,,
+DH-387970,2026-07-18,2026-07-26,David Ward,david.ward@example.com,+1 555-0189,443 Park Place,Columbus,OH,43267,US,ACC-3456552,4303,HG-4410,Folding bookshelf,1,94.00,,
+DH-425142,2026-07-18,2026-07-28,Paul Coleman,paul.coleman@example.com,+1 555-0128,519 Willow Way,Raleigh,NC,27619,US,ACC-6984012,6400,HG-4402,Oak side table,2,238.00,damaged,2026-08-24
+DH-308562,2026-07-19,2026-07-27,Eric Spencer,eric.spencer@example.org,+1 555-0103,486 Park Place,Tucson,AZ,85795,US,ACC-6315499,4374,HG-4410,Folding bookshelf,1,94.00,,
+DH-405735,2026-07-19,2026-07-23,Jennifer Russell,jennifer.russell@example.net,+1 555-0113,281 Willow Way,Denver,CO,80269,US,ACC-3424571,0606,HG-2207,Ceramic table lamp,1,64.00,,
+DH-440245,2026-07-19,2026-07-27,Leon Jansen,leon.jansen@example.net,+1 555-0120,427 Hillside Avenue,Boise,ID,83760,US,ACC-6839546,8814,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,,
+DH-334227,2026-07-20,2026-07-25,David Wallace,david.wallace@example.com,+1 555-0169,299 Meadow Lane,Raleigh,NC,27665,US,ACC-1753523,4632,HG-4410,Folding bookshelf,1,94.00,,
+DH-346616,2026-07-20,2026-07-27,Lisa Morgan,lisa.morgan@example.net,+1 555-0105,38 Cedar Lane,Tucson,AZ,85720,US,ACC-7653237,4421,HG-2215,Brass floor lamp,1,129.00,wrong_item,2026-09-01
+DH-384291,2026-07-20,2026-07-25,Tomas Shaw,tomas.shaw@example.org,,506 Oak Avenue,Porto,,4000-064,PT,ACC-9595999,7541,HG-3325,"Wool rug, 5 x 7 ft",2,318.00,,
+DH-401445,2026-07-20,2026-07-29,David Dixon,david.dixon@example.net,+1 555-0161,715 Cedar Lane,Columbus,OH,43286,US,ACC-5989750,4489,HG-4402,Oak side table,1,119.00,damaged,2026-08-10
+DH-422342,2026-07-20,2026-07-23,Thomas Moreau,thomas.moreau@example.net,+1 555-0114,346 Park Place,Raleigh,NC,27665,US,ACC-6725638,9121,HG-1104,"Stoneware dinner plates, set of 4",2,84.00,damaged,2026-08-27
+DH-424796,2026-07-20,2026-07-27,Pierre Bennett,pierre.bennett@example.org,+1 555-0140,241 River Street,Omaha,NE,68145,US,ACC-7843800,8632,HG-3318,Cotton throw blanket,1,48.00,,
+DH-439470,2026-07-21,2026-07-24,Ava Barnes,ava.barnes2@example.com,+1 555-0140,576 River Street,Tucson,AZ,85783,US,ACC-2074317,8128,HG-2215,Brass floor lamp,1,129.00,changed_mind,2026-08-23
+DH-451454,2026-07-21,2026-07-25,Eric Coleman,eric.coleman@example.org,+1 555-0103,259 Pine Road,Austin,TX,78752,US,ACC-6033217,0563,HG-3318,Cotton throw blanket,1,48.00,,
+DH-488324,2026-07-21,2026-07-28,Marta Mills,marta.mills@example.org,+1 555-0138,369 Lakeview Road,Columbus,OH,43279,US,ACC-4791165,5770,HG-1132,"Glass storage jars, set of 3",1,28.00,,
+DH-369132,2026-07-22,2026-07-28,Ava Rice,ava.rice@example.com,+1 555-0105,380 Elm Court,Omaha,NE,68112,US,ACC-2711139,3288,HG-2215,Brass floor lamp,1,129.00,,
+DH-419745,2026-07-22,2026-07-28,Michael Shaw,michael.shaw@example.net,+1 555-0148,773 Oak Avenue,Richmond,VA,23241,US,ACC-5975804,8608,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,,
+DH-425799,2026-07-22,2026-08-02,Jennifer Barnes,jennifer.barnes@example.com,+1 555-0146,38 Elm Court,Denver,CO,80251,US,ACC-2351163,6916,HG-3301,"Linen duvet cover, queen",1,89.00,,
+DH-428237,2026-07-22,2026-07-29,Laura Fox,laura.fox@example.com,+1 555-0124,258 Oak Avenue,Boise,ID,83710,US,ACC-7811971,2614,HG-1132,"Glass storage jars, set of 3",1,28.00,changed_mind,2026-08-07
+DH-444497,2026-07-22,2026-08-01,Andrew Price,andrew.price@example.org,+1 555-0176,517 Birch Drive,Columbus,OH,43291,US,ACC-4409877,9866,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,,
+DH-497107,2026-07-22,2026-07-25,Olivia Griffin,olivia.griffin@example.com,+1 555-0146,856 Elm Court,Tucson,AZ,85730,US,ACC-1009675,4312,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,,
+DH-325336,2026-07-23,2026-07-29,Jason Lane,jason.lane@example.org,+1 555-0113,497 Oak Avenue,Richmond,VA,23206,US,ACC-6741020,3817,HG-1132,"Glass storage jars, set of 3",1,28.00,,
+DH-380113,2026-07-23,2026-08-03,Ryan Wallace,ryan.wallace2@example.net,,418 Willow Way,Leipzig,,04192,DE,ACC-6350407,3098,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,,
+DH-424748,2026-07-23,2026-08-05,Elise Becker,elise.becker@example.net,+1 555-0160,277 Lakeview Road,Tucson,AZ,85709,US,ACC-7897895,6030,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,changed_mind,2026-09-08
+DH-376412,2026-07-24,2026-08-01,Patricia Lindqvist,patricia.lindqvist@example.org,,897 Birch Drive,Porto,,4000-079,PT,ACC-7556189,5573,HG-4410,Folding bookshelf,2,188.00,damaged,2026-08-15
+DH-409360,2026-07-24,2026-07-29,Lukas Berg,lukas.berg@example.net,+1 555-0172,361 Willow Way,Boise,ID,83727,US,ACC-2021458,1451,HG-3301,"Linen duvet cover, queen",2,178.00,changed_mind,2026-08-26
+DH-379583,2026-07-25,2026-07-29,Eric Fox,eric.fox@example.org,+1 555-0104,654 Willow Way,Boise,ID,83784,US,ACC-2141064,4762,HG-1150,"Cast iron skillet, 10 inch",1,36.00,,
+DH-393946,2026-07-25,2026-07-28,Pierre Price,pierre.price@example.net,+1 555-0117,37 Meadow Lane,Boise,ID,83719,US,ACC-1215552,0680,HG-1150,"Cast iron skillet, 10 inch",1,36.00,,
+DH-484213,2026-07-25,2026-08-02,Pierre Lindqvist,pierre.lindqvist@example.org,+1 555-0194,86 Birch Drive,Boise,ID,83724,US,ACC-1046655,3016,HG-1132,"Glass storage jars, set of 3",2,56.00,,
+DH-397153,2026-07-26,2026-08-01,Mia Graham,mia.graham@example.net,+1 555-0157,932 Pine Road,Richmond,VA,23283,US,ACC-4898462,4036,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,,
+DH-403652,2026-07-26,2026-07-29,Andrew Lindqvist,andrew.lindqvist@example.net,+1 555-0159,662 Elm Court,Boise,ID,83773,US,ACC-3086355,2174,HG-2215,Brass floor lamp,1,129.00,,
+DH-454338,2026-07-26,2026-07-30,Felix Kowalski,felix.kowalski@example.net,+1 555-0118,32 Hillside Avenue,Richmond,VA,23262,US,ACC-6853813,6915,HG-2215,Brass floor lamp,1,129.00,,
+DH-456349,2026-07-26,2026-07-30,Thomas Porter,thomas.porter@example.com,,800 Lakeview Road,Porto,,4000-018,PT,ACC-2389153,4501,HG-3318,Cotton throw blanket,1,48.00,,
+DH-481681,2026-07-26,2026-07-29,Michael Spencer,michael.spencer@example.net,+1 555-0175,310 Meadow Lane,Tucson,AZ,85779,US,ACC-3775617,1779,HG-1150,"Cast iron skillet, 10 inch",1,36.00,,
+DH-488092,2026-07-26,2026-07-29,Patricia Porter,patricia.porter@example.org,+1 555-0180,92 Oak Avenue,Richmond,VA,23222,US,ACC-1158159,4201,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,changed_mind,2026-09-09
+DH-493144,2026-07-26,2026-08-03,James Russell,james.russell@example.net,+1 555-0140,29 Lakeview Road,Richmond,VA,23276,US,ACC-2537461,8039,HG-2215,Brass floor lamp,1,129.00,,
+DH-495673,2026-07-26,2026-08-02,Megan Palmer,megan.palmer@example.com,,959 Cedar Lane,Porto,,4000-016,PT,ACC-9491391,7133,HG-2215,Brass floor lamp,2,258.00,,
+DH-333154,2026-07-27,2026-08-03,Elise Jansen,elise.jansen@example.net,+1 555-0148,493 Pine Road,Columbus,OH,43213,US,ACC-3516058,1021,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,,
+DH-401457,2026-07-27,2026-07-30,Ines Ward,ines.ward@example.com,+1 555-0187,269 Oak Avenue,Austin,TX,78798,US,ACC-1514176,4476,HG-3318,Cotton throw blanket,1,48.00,,
+DH-424099,2026-07-27,2026-07-30,Matteo Weber,matteo.weber2@example.net,+1 555-0148,384 Lakeview Road,Portland,OR,97273,US,ACC-7170650,0720,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,,
+DH-308797,2026-07-28,2026-08-01,Elise Lindqvist,elise.lindqvist@example.org,+1 555-0152,567 Oak Avenue,Boise,ID,83703,US,ACC-9546257,6253,HG-4402,Oak side table,1,119.00,damaged,2026-08-18
+DH-387286,2026-07-28,2026-08-01,Jennifer Price,jennifer.price@example.org,+1 555-0153,910 Lakeview Road,Tucson,AZ,85765,US,ACC-1830531,2016,HG-2230,Glass pendant shade,1,54.00,changed_mind,2026-08-04
+DH-370356,2026-07-29,2026-08-05,Ava Hughes,ava.hughes@example.com,+1 555-0169,667 Birch Drive,Boise,ID,83781,US,ACC-8011820,7144,HG-3318,Cotton throw blanket,1,48.00,,
+DH-401871,2026-07-29,2026-08-12,Mark Bennett,mark.bennett@example.com,+1 555-0130,76 Willow Way,Omaha,NE,68104,US,ACC-1171176,2733,HG-3301,"Linen duvet cover, queen",1,89.00,damaged,2026-08-12
+DH-442574,2026-07-29,2026-08-04,Noah Rice,noah.rice@example.net,+1 555-0146,143 Hillside Avenue,Raleigh,NC,27653,US,ACC-6297692,3616,HG-4402,Oak side table,1,119.00,,
+DH-453005,2026-07-29,2026-08-05,Elise Moreau,elise.moreau@example.org,+1 555-0124,103 Oak Avenue,Madison,WI,53797,US,ACC-8692300,4321,HG-3325,"Wool rug, 5 x 7 ft",1,159.00,,
+DH-465584,2026-07-29,2026-08-03,Paul Graham,paul.graham@example.net,+1 555-0175,782 Elm Court,Tucson,AZ,85732,US,ACC-2900879,2315,HG-4402,Oak side table,2,238.00,,
+DH-360022,2026-07-30,2026-08-05,Mark Lane,mark.lane@example.com,,134 Pine Road,Utrecht,,3584 AB,NL,ACC-5222343,3580,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,,
+DH-412910,2026-07-30,2026-08-05,Noah Lindqvist,noah.lindqvist@example.com,+1 555-0125,251 Cedar Lane,Austin,TX,78789,US,ACC-3923412,8129,HG-3318,Cotton throw blanket,1,48.00,wrong_item,2026-08-16
+DH-469090,2026-07-30,2026-08-05,Maria Palmer,maria.palmer@example.net,+1 555-0160,892 Meadow Lane,Raleigh,NC,27674,US,ACC-3540356,1914,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,,
+DH-490370,2026-07-30,2026-08-03,Daniel Holmes,daniel.holmes@example.com,+1 555-0136,516 Pine Road,Portland,OR,97230,US,ACC-3933461,0390,HG-2207,Ceramic table lamp,1,64.00,,
+DH-335380,2026-07-31,2026-08-08,Tomas Reed,tomas.reed@example.net,,467 River Street,Utrecht,,3523 AB,NL,ACC-4313477,8682,HG-2215,Brass floor lamp,1,129.00,,
+DH-339525,2026-07-31,2026-08-05,Pierre Reed,pierre.reed@example.com,+1 555-0132,154 Park Place,Denver,CO,80286,US,ACC-9541377,4145,HG-4402,Oak side table,1,119.00,,
+DH-376298,2026-07-31,2026-08-08,Clara Dubois,clara.dubois@example.com,,796 Meadow Lane,Utrecht,,3551 AB,NL,ACC-3095465,3023,HG-4410,Folding bookshelf,1,94.00,,
+DH-499508,2026-07-31,2026-08-04,Clara Griffin,clara.griffin@example.org,+1 555-0135,869 Elm Court,Omaha,NE,68190,US,ACC-8546545,1195,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,,
+DH-354364,2026-08-01,2026-08-07,Ava Dubois,ava.dubois@example.com,+1 555-0179,606 River Street,Columbus,OH,43292,US,ACC-5644432,1406,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,damaged,2026-08-21
+DH-440807,2026-08-01,2026-08-08,Susan Vermeer,susan.vermeer@example.com,+1 555-0173,967 Maple Street,Portland,OR,97297,US,ACC-9622561,2874,HG-3301,"Linen duvet cover, queen",1,89.00,,
+DH-441979,2026-08-01,2026-08-05,Ava Barnes,ava.barnes@example.com,+1 555-0191,81 Pine Road,Madison,WI,53747,US,ACC-9814589,1845,HG-1132,"Glass storage jars, set of 3",1,28.00,,
+DH-469131,2026-08-01,2026-08-13,Ava Barnes,ava.barnes@example.org,+1 555-0131,872 Hillside Avenue,Richmond,VA,23245,US,ACC-6774074,3047,HG-3301,"Linen duvet cover, queen",2,178.00,,
+DH-483256,2026-08-01,2026-08-04,Kevin Spencer,kevin.spencer@example.com,,934 Lakeview Road,Ghent,,9096,BE,ACC-8549039,6742,HG-3318,Cotton throw blanket,1,48.00,,
+DH-301301,2026-08-02,2026-08-08,Jennifer Weber,jennifer.weber@example.net,,524 Pine Road,Porto,,4000-038,PT,ACC-9000475,7726,HG-3325,"Wool rug, 5 x 7 ft",1,159.00,,
+DH-399306,2026-08-02,2026-08-06,Clara Fisher,clara.fisher@example.com,,166 Cedar Lane,Utrecht,,3597 AB,NL,ACC-2864276,9462,HG-1132,"Glass storage jars, set of 3",1,28.00,,
+DH-418779,2026-08-02,2026-08-05,Laura Lindqvist,laura.lindqvist2@example.net,+1 555-0153,608 Oak Avenue,Boise,ID,83730,US,ACC-6934217,6439,HG-2207,Ceramic table lamp,1,64.00,damaged,2026-08-31
+DH-445808,2026-08-02,2026-08-10,Patricia Ferrari,patricia.ferrari@example.com,+1 555-0180,21 River Street,Columbus,OH,43221,US,ACC-7097675,7689,HG-3325,"Wool rug, 5 x 7 ft",2,318.00,,
+DH-460324,2026-08-02,2026-08-07,Grace Mills,grace.mills@example.org,+1 555-0125,641 Willow Way,Columbus,OH,43267,US,ACC-3854613,7343,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,wrong_item,2026-08-31
+DH-459841,2026-08-03,2026-08-09,Ryan Rossi,ryan.rossi@example.com,+33 1 99 00 93 60,69 Hillside Avenue,Lyon,,69073,FR,ACC-4596899,3698,HG-3301,"Linen duvet cover, queen",1,89.00,,
+DH-484242,2026-08-03,2026-08-17,Rachel Dixon,rachel.dixon@example.net,+1 555-0126,30 Lakeview Road,Richmond,VA,23270,US,ACC-9479452,7991,HG-3318,Cotton throw blanket,1,48.00,,
+DH-300608,2026-08-04,2026-08-08,Maria Webb,maria.webb@example.net,,262 Lakeview Road,Ghent,,9034,BE,ACC-3319482,5772,HG-2230,Glass pendant shade,1,54.00,,
+DH-320492,2026-08-04,2026-08-12,Tomas Rice,tomas.rice@example.org,,325 Elm Court,Porto,,4000-069,PT,ACC-8871655,0113,HG-2207,Ceramic table lamp,1,64.00,,
+DH-320805,2026-08-04,2026-08-14,Olivia Lane,olivia.lane@example.com,+1 555-0112,252 Maple Street,Boise,ID,83721,US,ACC-6530013,0366,HG-3301,"Linen duvet cover, queen",2,178.00,wrong_item,2026-08-22
+DH-386181,2026-08-04,2026-08-18,Felix Palmer,felix.palmer@example.com,,344 Pine Road,Ghent,,9047,BE,ACC-7604741,6803,HG-3318,Cotton throw blanket,2,96.00,,
+DH-319955,2026-08-05,2026-08-10,Megan Kowalski,megan.kowalski@example.org,+1 555-0101,882 Willow Way,Madison,WI,53733,US,ACC-4408787,7358,HG-2207,Ceramic table lamp,2,128.00,damaged,2026-09-03
+DH-327497,2026-08-05,2026-08-09,Rachel Porter,rachel.porter@example.org,+1 555-0125,725 Lakeview Road,Madison,WI,53769,US,ACC-4699840,9803,HG-4402,Oak side table,1,119.00,,
+DH-360767,2026-08-05,2026-08-12,Daniel Moreau,daniel.moreau@example.net,,544 Elm Court,Graz,,8051,AT,ACC-6649348,8624,HG-2230,Glass pendant shade,1,54.00,wrong_item,2026-08-25
+DH-373706,2026-08-05,2026-08-13,James Hayes,james.hayes@example.com,+1 555-0151,763 Hillside Avenue,Boise,ID,83730,US,ACC-5207644,7008,HG-3318,Cotton throw blanket,2,96.00,,
+DH-405520,2026-08-05,2026-08-08,Elise Holmes,elise.holmes@example.org,+33 1 99 00 75 07,405 Pine Road,Lyon,,69005,FR,ACC-4500464,5300,HG-4410,Folding bookshelf,1,94.00,,
+DH-432122,2026-08-05,2026-08-12,Mia Spencer,mia.spencer@example.com,+1 555-0134,696 Hillside Avenue,Boise,ID,83761,US,ACC-2647118,2656,HG-2207,Ceramic table lamp,1,64.00,,
+DH-487999,2026-08-05,2026-08-10,Sophie Wallace,sophie.wallace@example.net,+1 555-0179,71 Park Place,Columbus,OH,43270,US,ACC-4515992,9470,HG-4402,Oak side table,1,119.00,,
+DH-373474,2026-08-06,2026-08-13,Mia Russell,mia.russell@example.org,+1 555-0172,975 Oak Avenue,Boise,ID,83713,US,ACC-8063832,1394,HG-1132,"Glass storage jars, set of 3",1,28.00,,
+DH-405100,2026-08-06,2026-08-13,Anna Weber,anna.weber@example.org,+1 555-0115,455 Park Place,Boise,ID,83786,US,ACC-2452474,2508,HG-1104,"Stoneware dinner plates, set of 4",2,84.00,,
+DH-411466,2026-08-06,2026-08-11,Olivia Weber,olivia.weber@example.net,+1 555-0174,544 Meadow Lane,Tucson,AZ,85764,US,ACC-5864702,7210,HG-1132,"Glass storage jars, set of 3",1,28.00,,
+DH-333634,2026-08-07,2026-08-11,Michael Carter,michael.carter@example.net,,141 Elm Court,Leipzig,,04188,DE,ACC-1252674,2206,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,damaged,2026-08-28
+DH-412656,2026-08-07,2026-08-14,Sophie Bennett,sophie.bennett@example.net,+1 555-0193,776 Oak Avenue,Portland,OR,97249,US,ACC-9109787,1603,HG-2230,Glass pendant shade,2,108.00,,
+DH-452561,2026-08-07,2026-08-11,Patricia Morgan,patricia.morgan@example.org,+1 555-0156,441 Cedar Lane,Richmond,VA,23210,US,ACC-9920162,1075,HG-3325,"Wool rug, 5 x 7 ft",1,159.00,,
+DH-474496,2026-08-07,2026-08-10,Olivia Russell,olivia.russell@example.net,+1 555-0105,572 River Street,Madison,WI,53791,US,ACC-1122340,9288,HG-4402,Oak side table,1,119.00,,
+DH-350303,2026-08-08,2026-08-12,Ava Rice,ava.rice2@example.com,+1 555-0127,260 Park Place,Austin,TX,78780,US,ACC-9944750,2787,HG-2230,Glass pendant shade,2,108.00,,
+DH-405466,2026-08-08,2026-08-14,Kevin Webb,kevin.webb@example.org,,888 Cedar Lane,Ghent,,9048,BE,ACC-6711132,4175,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,,
+DH-464845,2026-08-08,2026-08-17,Susan Coleman,susan.coleman@example.com,+1 555-0175,546 Pine Road,Austin,TX,78744,US,ACC-7278728,4678,HG-4402,Oak side table,1,119.00,changed_mind,2026-09-04
+DH-469258,2026-08-08,2026-08-18,Jonas Becker,jonas.becker@example.com,+1 555-0115,75 Hillside Avenue,Portland,OR,97230,US,ACC-7483558,2406,HG-4410,Folding bookshelf,1,94.00,damaged,2026-09-03
+DH-339069,2026-08-09,2026-08-12,Thomas Dixon,thomas.dixon@example.org,+1 555-0144,886 Park Place,Raleigh,NC,27668,US,ACC-4091338,6147,HG-4402,Oak side table,2,238.00,,
+DH-344368,2026-08-09,2026-08-13,Brian Reed,brian.reed@example.com,+1 555-0140,925 Birch Drive,Portland,OR,97246,US,ACC-8744435,7124,HG-3325,"Wool rug, 5 x 7 ft",1,159.00,changed_mind,2026-09-25
+DH-385221,2026-08-09,2026-08-17,Chloe Reed,chloe.reed@example.net,+1 555-0151,868 Willow Way,Columbus,OH,43224,US,ACC-5687268,6833,HG-2230,Glass pendant shade,1,54.00,,
+DH-395024,2026-08-09,2026-08-17,Rachel Bennett,rachel.bennett2@example.net,+33 1 99 00 17 81,106 Elm Court,Lyon,,69010,FR,ACC-6700206,9345,HG-4410,Folding bookshelf,1,94.00,changed_mind,2026-09-09
+DH-446256,2026-08-09,2026-08-20,David Berg,david.berg@example.com,+1 555-0139,79 Meadow Lane,Portland,OR,97206,US,ACC-1991899,9551,HG-3318,Cotton throw blanket,2,96.00,,
+DH-415024,2026-08-10,2026-08-17,Ines Lane,ines.lane@example.org,+1 555-0115,947 Oak Avenue,Raleigh,NC,27699,US,ACC-8494131,1611,HG-2215,Brass floor lamp,1,129.00,wrong_item,2026-08-22
+DH-463060,2026-08-10,2026-08-17,Marta Reed,marta.reed@example.com,+1 555-0178,184 Willow Way,Tucson,AZ,85713,US,ACC-6151251,1663,HG-1132,"Glass storage jars, set of 3",1,28.00,wrong_item,2026-08-23
+DH-483777,2026-08-10,2026-08-16,Leon Hart,leon.hart@example.com,+1 555-0107,208 Park Place,Austin,TX,78718,US,ACC-6248626,2613,HG-3325,"Wool rug, 5 x 7 ft",1,159.00,,
+DH-328359,2026-08-11,2026-08-19,Jonas Bennett,jonas.bennett@example.org,,353 Maple Street,Leipzig,,04176,DE,ACC-6118496,9955,HG-1132,"Glass storage jars, set of 3",1,28.00,damaged,2026-08-26
+DH-367708,2026-08-11,2026-08-17,Jennifer Novak,jennifer.novak@example.com,+1 555-0134,688 Meadow Lane,Denver,CO,80256,US,ACC-2203042,2006,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,damaged,2026-09-01
+DH-383051,2026-08-11,2026-08-18,Lisa Graham,lisa.graham@example.org,+1 555-0188,255 Maple Street,Portland,OR,97246,US,ACC-2058801,5189,HG-2230,Glass pendant shade,1,54.00,,
+DH-402661,2026-08-11,2026-08-17,Leon Weber,leon.weber@example.net,+1 555-0192,163 Lakeview Road,Austin,TX,78725,US,ACC-8980991,4004,HG-4402,Oak side table,1,119.00,,
+DH-438309,2026-08-11,2026-08-18,Kevin Vermeer,kevin.vermeer@example.com,+1 555-0178,899 Elm Court,Raleigh,NC,27698,US,ACC-4782757,3581,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,damaged,2026-10-02
+DH-452611,2026-08-11,2026-08-14,Susan Mills,susan.mills2@example.org,+1 555-0188,824 Meadow Lane,Portland,OR,97227,US,ACC-6136614,7363,HG-1132,"Glass storage jars, set of 3",2,56.00,changed_mind,2026-08-18
+DH-464040,2026-08-11,2026-08-14,David Bennett,david.bennett@example.org,+1 555-0179,690 Elm Court,Portland,OR,97241,US,ACC-3564423,2121,HG-4410,Folding bookshelf,2,188.00,,
+DH-498988,2026-08-11,2026-08-14,Andrew Jansen,andrew.jansen@example.org,+1 555-0125,739 Meadow Lane,Austin,TX,78785,US,ACC-8546271,8615,HG-1132,"Glass storage jars, set of 3",1,28.00,changed_mind,2026-09-01
+DH-304525,2026-08-12,2026-08-15,Karen Kowalski,karen.kowalski@example.com,+1 555-0100,292 Hillside Avenue,Columbus,OH,43206,US,ACC-6472036,0552,HG-4402,Oak side table,1,119.00,damaged,2026-08-15
+DH-342838,2026-08-12,2026-08-20,Jason Ferrari,jason.ferrari@example.org,+1 555-0168,280 Birch Drive,Portland,OR,97234,US,ACC-7090771,9343,HG-3301,"Linen duvet cover, queen",1,89.00,,
+DH-385978,2026-08-13,2026-08-17,Mia Carter,mia.carter@example.com,+1 555-0169,366 Elm Court,Denver,CO,80273,US,ACC-2511191,9875,HG-4410,Folding bookshelf,1,94.00,changed_mind,2026-09-28
+DH-463876,2026-08-13,2026-08-16,Daniel Russell,daniel.russell@example.com,+1 555-0135,720 Park Place,Richmond,VA,23253,US,ACC-3420612,9406,HG-1150,"Cast iron skillet, 10 inch",1,36.00,,
+DH-473781,2026-08-13,2026-08-19,Paul Webb,paul.webb@example.com,+1 555-0188,650 Willow Way,Omaha,NE,68185,US,ACC-4795024,1846,HG-3301,"Linen duvet cover, queen",1,89.00,,
+DH-358685,2026-08-14,2026-08-28,Pierre Lindqvist,pierre.lindqvist@example.net,+1 555-0119,875 Elm Court,Richmond,VA,23215,US,ACC-8616072,5104,HG-2215,Brass floor lamp,1,129.00,,
+DH-432365,2026-08-14,2026-08-20,Clara Price,clara.price@example.org,+1 555-0105,669 Park Place,Columbus,OH,43259,US,ACC-1474721,2331,HG-2215,Brass floor lamp,1,129.00,,
+DH-433873,2026-08-14,2026-08-18,Sophie Holmes,sophie.holmes@example.org,+1 555-0197,279 Park Place,Omaha,NE,68119,US,ACC-6651050,5720,HG-2230,Glass pendant shade,2,108.00,,
+DH-443346,2026-08-14,2026-08-21,Nancy Vermeer,nancy.vermeer@example.com,+1 555-0194,495 Oak Avenue,Tucson,AZ,85726,US,ACC-2379765,6351,HG-3325,"Wool rug, 5 x 7 ft",2,318.00,,
+DH-302878,2026-08-15,2026-08-20,Ethan Fisher,ethan.fisher@example.net,+1 555-0133,795 Oak Avenue,Tucson,AZ,85754,US,ACC-4788832,9364,HG-2230,Glass pendant shade,1,54.00,,
+DH-329584,2026-08-15,2026-08-25,Felix Fox,felix.fox@example.org,,374 Hillside Avenue,Utrecht,,3579 AB,NL,ACC-3997018,5473,HG-3325,"Wool rug, 5 x 7 ft",2,318.00,damaged,2026-09-05
+DH-334520,2026-08-15,2026-08-20,Mia Carter,mia.carter@example.org,+1 555-0187,767 Birch Drive,Austin,TX,78799,US,ACC-3210328,7812,HG-3318,Cotton throw blanket,1,48.00,,
+DH-353834,2026-08-15,2026-08-22,Thomas Weber,thomas.weber@example.org,+1 555-0182,749 Hillside Avenue,Austin,TX,78776,US,ACC-5165107,5420,HG-3318,Cotton throw blanket,1,48.00,,
+DH-425569,2026-08-15,2026-08-23,Jennifer Fox,jennifer.fox@example.com,+1 555-0130,255 Lakeview Road,Madison,WI,53782,US,ACC-7117482,1536,HG-4410,Folding bookshelf,1,94.00,,
+DH-436808,2026-08-15,2026-08-21,Hannah Fox,hannah.fox@example.net,+1 555-0139,869 Birch Drive,Columbus,OH,43232,US,ACC-1447304,5785,HG-4410,Folding bookshelf,1,94.00,changed_mind,2026-09-04
+DH-384959,2026-08-16,2026-08-24,Nancy Spencer,nancy.spencer@example.net,+1 555-0103,832 Park Place,Austin,TX,78777,US,ACC-4443488,5277,HG-1150,"Cast iron skillet, 10 inch",1,36.00,,
+DH-434116,2026-08-16,2026-08-22,Eric Fisher,eric.fisher@example.org,+1 555-0117,894 Cedar Lane,Boise,ID,83766,US,ACC-5530140,4669,HG-3318,Cotton throw blanket,1,48.00,changed_mind,2026-10-06
+DH-302840,2026-08-17,2026-08-20,Laura Lindqvist,laura.lindqvist@example.net,+1 555-0138,819 Hillside Avenue,Tucson,AZ,85737,US,ACC-8666578,3770,HG-2230,Glass pendant shade,1,54.00,,
+DH-305358,2026-08-17,2026-08-23,Marta Griffin,marta.griffin@example.org,+1 555-0135,491 Park Place,Raleigh,NC,27669,US,ACC-9377376,6053,HG-4410,Folding bookshelf,1,94.00,damaged,2026-08-25
+DH-456119,2026-08-17,2026-08-24,Michael Bennett,michael.bennett2@example.org,,71 Birch Drive,Utrecht,,3544 AB,NL,ACC-9682958,6457,HG-2230,Glass pendant shade,1,54.00,damaged,2026-09-01
+DH-302923,2026-08-19,2026-08-25,Elise Coleman,elise.coleman@example.net,,929 Oak Avenue,Leipzig,,04182,DE,ACC-2647653,9761,HG-4410,Folding bookshelf,1,94.00,,
+DH-315606,2026-08-19,2026-08-25,David Rossi,david.rossi@example.org,+1 555-0191,720 River Street,Tucson,AZ,85774,US,ACC-6459821,7656,HG-2215,Brass floor lamp,1,129.00,,
+DH-319793,2026-08-19,2026-08-24,Mark Rice,mark.rice@example.com,+1 555-0112,275 Hillside Avenue,Austin,TX,78745,US,ACC-7739815,3215,HG-2215,Brass floor lamp,2,258.00,damaged,2026-09-03
+DH-338142,2026-08-19,2026-08-27,Jason Becker,jason.becker@example.net,+1 555-0185,261 Willow Way,Richmond,VA,23224,US,ACC-7985613,4553,HG-3301,"Linen duvet cover, queen",1,89.00,,
+DH-491918,2026-08-19,2026-08-22,Susan Morgan,susan.morgan@example.org,+1 555-0140,793 Maple Street,Portland,OR,97286,US,ACC-2629890,4010,HG-3301,"Linen duvet cover, queen",1,89.00,damaged,2026-09-21
+DH-493944,2026-08-19,2026-08-25,Karen Carter,karen.carter@example.com,+1 555-0172,13 Pine Road,Omaha,NE,68117,US,ACC-9232724,8142,HG-4410,Folding bookshelf,2,188.00,,
+DH-311061,2026-08-20,2026-09-01,Anna Mills,anna.mills@example.com,+1 555-0123,552 Park Place,Austin,TX,78718,US,ACC-5654054,6948,HG-2230,Glass pendant shade,1,54.00,,
+DH-352625,2026-08-20,2026-08-24,Paul Dixon,paul.dixon@example.com,+1 555-0163,558 Park Place,Omaha,NE,68132,US,ACC-8561889,9096,HG-3301,"Linen duvet cover, queen",1,89.00,,
+DH-366623,2026-08-20,2026-08-23,Paul Bennett,paul.bennett@example.org,+1 555-0183,408 Birch Drive,Raleigh,NC,27615,US,ACC-7616320,9673,HG-3301,"Linen duvet cover, queen",2,178.00,,
+DH-469160,2026-08-20,2026-08-26,Thomas Price,thomas.price@example.net,+1 555-0192,246 Lakeview Road,Madison,WI,53702,US,ACC-5519365,9025,HG-3318,Cotton throw blanket,2,96.00,changed_mind,2026-08-30
+DH-480934,2026-08-20,2026-08-27,Jason Hart,jason.hart@example.org,+1 555-0152,274 Hillside Avenue,Madison,WI,53773,US,ACC-2569405,1517,HG-3301,"Linen duvet cover, queen",2,178.00,,
+DH-332371,2026-08-21,2026-08-26,Emily Novak,emily.novak@example.org,,889 Park Place,Graz,,8057,AT,ACC-6257566,3047,HG-2207,Ceramic table lamp,1,64.00,,
+DH-398384,2026-08-21,2026-08-27,Eric Griffin,eric.griffin@example.com,+1 555-0195,491 Maple Street,Richmond,VA,23256,US,ACC-7847151,8914,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,changed_mind,2026-09-16
+DH-434750,2026-08-21,2026-08-29,Noah Foster,noah.foster@example.org,+1 555-0167,972 Lakeview Road,Omaha,NE,68132,US,ACC-5426578,9784,HG-2207,Ceramic table lamp,1,64.00,,
+DH-467100,2026-08-21,2026-08-29,Matteo Lindqvist,matteo.lindqvist@example.net,+1 555-0151,930 Hillside Avenue,Madison,WI,53746,US,ACC-7812822,2420,HG-2230,Glass pendant shade,1,54.00,,
+DH-476181,2026-08-21,2026-08-25,Lukas Barnes,lukas.barnes@example.com,+1 555-0178,721 Pine Road,Omaha,NE,68157,US,ACC-7281183,0186,HG-4402,Oak side table,1,119.00,,
+DH-335368,2026-08-22,2026-08-25,Marta Barnes,marta.barnes@example.org,,815 Cedar Lane,Ghent,,9044,BE,ACC-8194517,3016,HG-1104,"Stoneware dinner plates, set of 4",2,84.00,changed_mind,2026-08-28
+DH-416179,2026-08-22,2026-08-30,Michael Vermeer,michael.vermeer@example.com,+1 555-0129,89 Hillside Avenue,Omaha,NE,68175,US,ACC-5141770,2338,HG-1132,"Glass storage jars, set of 3",2,56.00,,
+DH-421254,2026-08-22,2026-08-28,Paul Hughes,paul.hughes@example.net,+1 555-0106,180 Cedar Lane,Austin,TX,78718,US,ACC-4996596,2195,HG-3301,"Linen duvet cover, queen",1,89.00,,
+DH-476087,2026-08-22,2026-08-27,Laura Webb,laura.webb@example.com,+1 555-0181,569 River Street,Portland,OR,97234,US,ACC-4026407,0725,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,changed_mind,2026-10-06
+DH-323170,2026-08-23,2026-08-31,Matteo Weber,matteo.weber@example.net,+1 555-0170,817 Hillside Avenue,Madison,WI,53748,US,ACC-5884382,2714,HG-2230,Glass pendant shade,1,54.00,changed_mind,2026-09-06
+DH-346177,2026-08-23,2026-08-31,Paul Lindqvist,paul.lindqvist@example.net,+1 555-0172,966 Birch Drive,Boise,ID,83712,US,ACC-3039985,3445,HG-3325,"Wool rug, 5 x 7 ft",1,159.00,,
+DH-359346,2026-08-23,2026-08-29,Clara Barnes,clara.barnes@example.org,,468 Maple Street,Graz,,8089,AT,ACC-8329752,1774,HG-3301,"Linen duvet cover, queen",1,89.00,damaged,2026-09-15
+DH-375983,2026-08-23,2026-09-02,Elise Becker,elise.becker@example.com,+1 555-0176,791 Birch Drive,Columbus,OH,43214,US,ACC-5953895,1112,HG-4402,Oak side table,1,119.00,,
+DH-395763,2026-08-23,2026-08-29,Megan Foster,megan.foster@example.org,+1 555-0161,880 Park Place,Madison,WI,53710,US,ACC-9780116,3138,HG-4402,Oak side table,1,119.00,,
+DH-405909,2026-08-23,2026-08-29,Emily Weber,emily.weber@example.net,+1 555-0189,77 Lakeview Road,Austin,TX,78773,US,ACC-5298360,3908,HG-3301,"Linen duvet cover, queen",1,89.00,changed_mind,2026-10-06
+DH-468836,2026-08-23,2026-08-29,Grace Dubois,grace.dubois@example.net,+1 555-0156,830 Oak Avenue,Omaha,NE,68187,US,ACC-5316713,2208,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,,
+DH-329569,2026-08-24,2026-08-27,Olivia Holmes,olivia.holmes@example.com,+1 555-0152,358 Hillside Avenue,Columbus,OH,43235,US,ACC-6772548,2689,HG-3301,"Linen duvet cover, queen",1,89.00,,
+DH-389119,2026-08-24,2026-08-29,Ryan Wallace,ryan.wallace@example.com,+1 555-0178,117 Oak Avenue,Columbus,OH,43244,US,ACC-5343171,9488,HG-3325,"Wool rug, 5 x 7 ft",1,159.00,,
+DH-343134,2026-08-25,2026-08-30,Ethan Vermeer,ethan.vermeer@example.org,+1 555-0117,805 Meadow Lane,Columbus,OH,43217,US,ACC-4650930,4805,HG-2230,Glass pendant shade,2,108.00,damaged,2026-09-11
+DH-355387,2026-08-25,2026-08-31,Felix Coleman,felix.coleman@example.org,+1 555-0156,849 Lakeview Road,Columbus,OH,43299,US,ACC-8746676,8748,HG-1150,"Cast iron skillet, 10 inch",1,36.00,changed_mind,2026-09-13
+DH-359787,2026-08-25,2026-09-01,Linda Ferrari,linda.ferrari@example.org,+1 555-0105,354 Park Place,Columbus,OH,43253,US,ACC-7144658,6883,HG-1150,"Cast iron skillet, 10 inch",2,72.00,,
+DH-418995,2026-08-25,2026-08-29,Steven Vermeer,steven.vermeer@example.com,+1 555-0101,412 Willow Way,Columbus,OH,43228,US,ACC-9339497,4930,HG-2230,Glass pendant shade,2,108.00,,
+DH-415325,2026-08-26,2026-09-03,Sophie Reed,sophie.reed@example.org,+1 555-0157,740 Maple Street,Boise,ID,83706,US,ACC-4092178,7302,HG-4402,Oak side table,1,119.00,,
+DH-336236,2026-08-27,2026-09-01,Patricia Hayes,patricia.hayes@example.net,,890 Birch Drive,Ghent,,9006,BE,ACC-3283655,7866,HG-1132,"Glass storage jars, set of 3",2,56.00,,
+DH-349282,2026-08-27,2026-08-31,Eric Mills,eric.mills@example.com,+1 555-0196,952 Cedar Lane,Madison,WI,53787,US,ACC-7667027,3703,HG-3318,Cotton throw blanket,1,48.00,,
+DH-385319,2026-08-27,2026-09-04,Clara Hart,clara.hart@example.com,+1 555-0174,615 Hillside Avenue,Portland,OR,97210,US,ACC-5687862,4360,HG-1132,"Glass storage jars, set of 3",1,28.00,,
+DH-435208,2026-08-27,2026-08-30,Daniel Ferrari,daniel.ferrari@example.net,,105 Lakeview Road,Graz,,8042,AT,ACC-9532245,6893,HG-3301,"Linen duvet cover, queen",1,89.00,,
+DH-468469,2026-08-27,2026-08-30,Karen Dubois,karen.dubois@example.net,+1 555-0125,55 Park Place,Portland,OR,97279,US,ACC-5089244,3516,HG-3318,Cotton throw blanket,1,48.00,,
+DH-471994,2026-08-27,2026-08-30,Pierre Russell,pierre.russell@example.org,+1 555-0195,194 Willow Way,Portland,OR,97240,US,ACC-7201618,9514,HG-3325,"Wool rug, 5 x 7 ft",1,159.00,,
+DH-476302,2026-08-27,2026-08-30,Anna Holmes,anna.holmes@example.com,+1 555-0137,178 Pine Road,Austin,TX,78754,US,ACC-8507607,5545,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,,
+DH-478250,2026-08-27,2026-09-03,Sophie Jansen,sophie.jansen@example.net,+1 555-0153,445 Pine Road,Madison,WI,53705,US,ACC-6132454,0258,HG-2230,Glass pendant shade,2,108.00,,
+DH-327011,2026-08-28,2026-09-03,Andrew Ferrari,andrew.ferrari@example.net,+1 555-0102,974 Pine Road,Boise,ID,83711,US,ACC-8548106,7257,HG-1132,"Glass storage jars, set of 3",1,28.00,,
+DH-339742,2026-08-28,2026-09-01,Paul Morgan,paul.morgan@example.net,+1 555-0166,65 Park Place,Richmond,VA,23272,US,ACC-4479586,2020,HG-4410,Folding bookshelf,1,94.00,,
+DH-347935,2026-08-28,2026-09-09,Steven Palmer,steven.palmer@example.net,+1 555-0176,558 Pine Road,Omaha,NE,68145,US,ACC-9679967,5600,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,,
+DH-372545,2026-08-28,2026-09-05,Susan Mills,susan.mills@example.org,+1 555-0191,502 Birch Drive,Tucson,AZ,85713,US,ACC-2947224,6004,HG-2207,Ceramic table lamp,1,64.00,damaged,2026-09-30
+DH-396405,2026-08-28,2026-08-31,Lukas Russell,lukas.russell2@example.net,,464 Hillside Avenue,Graz,,8059,AT,ACC-2608874,6231,HG-3318,Cotton throw blanket,1,48.00,,
+DH-465245,2026-08-28,2026-09-04,Ines Coleman,ines.coleman@example.org,+1 555-0100,639 Lakeview Road,Richmond,VA,23257,US,ACC-7968640,6387,HG-1132,"Glass storage jars, set of 3",1,28.00,wrong_item,2026-09-14
+DH-354286,2026-08-29,2026-09-01,Patricia Carter,patricia.carter@example.net,+1 555-0146,390 River Street,Madison,WI,53711,US,ACC-8033866,0848,HG-3325,"Wool rug, 5 x 7 ft",1,159.00,,
+DH-370905,2026-08-29,2026-09-06,Nancy Carter,nancy.carter@example.net,+1 555-0125,800 Cedar Lane,Omaha,NE,68113,US,ACC-5555214,6157,HG-4402,Oak side table,1,119.00,,
+DH-353654,2026-08-30,2026-09-03,Tomas Russell,tomas.russell@example.org,+1 555-0181,647 Maple Street,Denver,CO,80202,US,ACC-8035958,6132,HG-4410,Folding bookshelf,1,94.00,,
+DH-374301,2026-08-30,2026-09-13,Felix Webb,felix.webb@example.com,+1 555-0179,908 Hillside Avenue,Denver,CO,80274,US,ACC-1495761,6626,HG-1132,"Glass storage jars, set of 3",1,28.00,changed_mind,2026-09-26
+DH-428248,2026-08-30,2026-09-03,Clara Weber,clara.weber@example.com,+1 555-0134,817 Willow Way,Columbus,OH,43230,US,ACC-1008950,3810,HG-4402,Oak side table,1,119.00,wrong_item,2026-10-18
+DH-455343,2026-08-30,2026-09-13,Susan Shaw,susan.shaw@example.net,,24 Birch Drive,Utrecht,,3583 AB,NL,ACC-1929843,9081,HG-3318,Cotton throw blanket,1,48.00,wrong_item,2026-09-15
+DH-457611,2026-08-30,2026-09-03,Susan Bennett,susan.bennett@example.org,+1 555-0145,879 Cedar Lane,Raleigh,NC,27649,US,ACC-1577225,9925,HG-3325,"Wool rug, 5 x 7 ft",2,318.00,,
+DH-391380,2026-08-31,2026-09-14,Ines Reed,ines.reed@example.com,+1 555-0165,457 Maple Street,Portland,OR,97267,US,ACC-3864804,4249,HG-1132,"Glass storage jars, set of 3",2,56.00,changed_mind,2026-10-16
+DH-449227,2026-08-31,2026-09-12,Karen Spencer,karen.spencer@example.org,+1 555-0140,22 Oak Avenue,Madison,WI,53799,US,ACC-9721112,6133,HG-3301,"Linen duvet cover, queen",1,89.00,,
+DH-464134,2026-08-31,2026-09-08,Matteo Becker,matteo.becker@example.net,+1 555-0153,581 Meadow Lane,Tucson,AZ,85755,US,ACC-3675709,7196,HG-2230,Glass pendant shade,2,108.00,damaged,2026-10-21
+DH-464815,2026-08-31,2026-09-04,Lukas Kowalski,lukas.kowalski@example.org,+1 555-0154,271 Meadow Lane,Tucson,AZ,85708,US,ACC-2873302,5130,HG-2207,Ceramic table lamp,1,64.00,,
+DH-482417,2026-08-31,2026-09-13,Thomas Lane,thomas.lane@example.com,,887 Hillside Avenue,Utrecht,,3573 AB,NL,ACC-7868437,6581,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,,
+DH-302715,2026-09-01,2026-09-06,Michael Bennett,michael.bennett@example.org,+1 555-0121,638 Cedar Lane,Austin,TX,78711,US,ACC-5460371,8425,HG-4402,Oak side table,1,119.00,damaged,2026-09-17
+DH-305692,2026-09-01,2026-09-06,Pierre Berg,pierre.berg@example.org,,660 Pine Road,Ghent,,9097,BE,ACC-8956800,0664,HG-4410,Folding bookshelf,1,94.00,changed_mind,2026-09-17
+DH-368165,2026-09-01,2026-09-09,Tomas Hughes,tomas.hughes@example.net,+1 555-0197,918 Meadow Lane,Omaha,NE,68167,US,ACC-4357577,9782,HG-3301,"Linen duvet cover, queen",2,178.00,,
+DH-393404,2026-09-01,2026-09-07,Sophie Dubois,sophie.dubois@example.com,+1 555-0170,184 River Street,Denver,CO,80284,US,ACC-1697446,1456,HG-2230,Glass pendant shade,1,54.00,changed_mind,2026-09-09
+DH-412297,2026-09-01,2026-09-05,Elise Morgan,elise.morgan@example.net,+1 555-0125,880 Park Place,Richmond,VA,23216,US,ACC-9981134,7605,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,damaged,2026-09-22
+DH-424582,2026-09-01,2026-09-07,Kevin Becker,kevin.becker@example.net,,164 Oak Avenue,Graz,,8094,AT,ACC-1147119,9711,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,,
+DH-431572,2026-09-01,2026-09-06,Karen Kowalski,karen.kowalski2@example.net,+1 555-0176,181 Pine Road,Tucson,AZ,85777,US,ACC-4985309,3508,HG-2207,Ceramic table lamp,1,64.00,,
+DH-462976,2026-09-01,2026-09-10,Mia Porter,mia.porter@example.org,+1 555-0142,277 Meadow Lane,Boise,ID,83751,US,ACC-3092153,2966,HG-3325,"Wool rug, 5 x 7 ft",1,159.00,damaged,2026-09-17
+DH-332813,2026-09-02,2026-09-10,Patricia Barnes,patricia.barnes@example.org,+1 555-0149,146 Meadow Lane,Richmond,VA,23232,US,ACC-9264215,6960,HG-2215,Brass floor lamp,2,258.00,,
+DH-335296,2026-09-02,2026-09-16,Laura Berg,laura.berg@example.net,+33 1 99 00 66 13,108 Hillside Avenue,Lyon,,69063,FR,ACC-4926973,0999,HG-2230,Glass pendant shade,1,54.00,changed_mind,2026-09-28
+DH-412235,2026-09-02,2026-09-05,Brian Vermeer,brian.vermeer@example.net,+1 555-0127,569 Birch Drive,Columbus,OH,43225,US,ACC-3548086,2264,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,damaged,2026-10-15
+DH-486951,2026-09-02,2026-09-09,James Coleman,james.coleman@example.com,+1 555-0176,587 Oak Avenue,Portland,OR,97240,US,ACC-7965911,2639,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,,
+DH-385790,2026-09-03,2026-09-09,David Graham,david.graham@example.org,+1 555-0118,526 Elm Court,Portland,OR,97219,US,ACC-4216663,3597,HG-1150,"Cast iron skillet, 10 inch",1,36.00,,
+DH-466683,2026-09-03,2026-09-07,Jonas Hughes,jonas.hughes@example.net,+1 555-0109,32 Park Place,Madison,WI,53777,US,ACC-9584194,9799,HG-3318,Cotton throw blanket,1,48.00,damaged,2026-10-17
+DH-480199,2026-09-03,2026-09-13,Emily Rice,emily.rice@example.com,+1 555-0131,645 Pine Road,Boise,ID,83797,US,ACC-4546817,0678,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,,
+DH-493335,2026-09-03,2026-09-06,Sophie Rossi,sophie.rossi@example.com,+1 555-0183,425 Hillside Avenue,Richmond,VA,23264,US,ACC-2315633,5618,HG-1178,"Ceramic mixing bowls, set of 3",2,78.00,,
+DH-362573,2026-09-04,2026-09-12,Grace Coleman,grace.coleman@example.net,+1 555-0135,421 Meadow Lane,Raleigh,NC,27633,US,ACC-3191402,1114,HG-3325,"Wool rug, 5 x 7 ft",1,159.00,,
+DH-401692,2026-09-04,2026-09-10,Mark Spencer,mark.spencer@example.com,+33 1 99 00 30 06,555 Pine Road,Lyon,,69050,FR,ACC-1135496,7272,HG-4402,Oak side table,1,119.00,,
+DH-443015,2026-09-04,2026-09-13,Andrew Webb,andrew.webb@example.net,+1 555-0191,866 Birch Drive,Portland,OR,97232,US,ACC-4182127,1722,HG-1150,"Cast iron skillet, 10 inch",1,36.00,,
+DH-445810,2026-09-04,2026-09-15,Nancy Jansen,nancy.jansen@example.com,,144 Birch Drive,Graz,,8090,AT,ACC-9728058,3954,HG-2230,Glass pendant shade,1,54.00,,
+DH-480053,2026-09-04,2026-09-11,Patricia Shaw,patricia.shaw@example.com,+1 555-0174,465 Willow Way,Omaha,NE,68140,US,ACC-6765235,4798,HG-1132,"Glass storage jars, set of 3",1,28.00,damaged,2026-10-05
+DH-300816,2026-09-05,2026-09-08,Rachel Spencer,rachel.spencer@example.net,,98 Pine Road,Utrecht,,3564 AB,NL,ACC-7484203,9906,HG-3301,"Linen duvet cover, queen",1,89.00,,
+DH-387008,2026-09-05,2026-09-11,Robert Morgan,robert.morgan@example.com,+1 555-0125,848 Meadow Lane,Denver,CO,80265,US,ACC-3994510,6368,HG-1150,"Cast iron skillet, 10 inch",1,36.00,,
+DH-399773,2026-09-05,2026-09-08,Daniel Griffin,daniel.griffin@example.com,+1 555-0100,797 Cedar Lane,Boise,ID,83784,US,ACC-9321284,2492,HG-2215,Brass floor lamp,1,129.00,,
+DH-454266,2026-09-05,2026-09-08,Jason Rossi,jason.rossi@example.org,+1 555-0144,255 Meadow Lane,Richmond,VA,23247,US,ACC-3626770,1772,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,changed_mind,2026-09-29
+DH-483365,2026-09-05,2026-09-09,Tomas Dubois,tomas.dubois@example.net,+1 555-0103,808 Meadow Lane,Denver,CO,80285,US,ACC-7441066,5341,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,,
+DH-370019,2026-09-06,2026-09-09,Mark Lindqvist,mark.lindqvist@example.com,+1 555-0164,399 Hillside Avenue,Portland,OR,97240,US,ACC-5513850,3598,HG-3325,"Wool rug, 5 x 7 ft",1,159.00,damaged,2026-10-05
+DH-408437,2026-09-06,2026-09-14,Paul Moreau,paul.moreau@example.net,+1 555-0120,462 Willow Way,Omaha,NE,68104,US,ACC-8071170,2366,HG-2207,Ceramic table lamp,1,64.00,,
+DH-478735,2026-09-06,2026-09-10,Eric Carter,eric.carter@example.net,+1 555-0125,32 Elm Court,Denver,CO,80266,US,ACC-3287726,5591,HG-3325,"Wool rug, 5 x 7 ft",2,318.00,,
+DH-496694,2026-09-06,2026-09-14,Lukas Graham,lukas.graham@example.com,+1 555-0108,277 Pine Road,Columbus,OH,43210,US,ACC-8970931,6414,HG-4410,Folding bookshelf,1,94.00,damaged,2026-10-01
+DH-497291,2026-09-06,2026-09-09,Kevin Ferrari,kevin.ferrari@example.com,+1 555-0135,591 Park Place,Madison,WI,53753,US,ACC-7584287,6112,HG-1132,"Glass storage jars, set of 3",1,28.00,changed_mind,2026-10-19
+DH-345320,2026-09-07,2026-09-12,Chloe Moreau,chloe.moreau@example.org,+1 555-0151,962 Maple Street,Tucson,AZ,85755,US,ACC-6773560,2048,HG-2207,Ceramic table lamp,2,128.00,changed_mind,2026-09-14
+DH-354616,2026-09-07,2026-09-15,James Berg,james.berg@example.net,+1 555-0103,695 Park Place,Omaha,NE,68101,US,ACC-5901832,0972,HG-2230,Glass pendant shade,1,54.00,damaged,2026-09-25
+DH-365000,2026-09-07,2026-09-10,Daniel Griffin,daniel.griffin@example.net,+1 555-0136,839 Oak Avenue,Denver,CO,80257,US,ACC-9445410,3046,HG-4402,Oak side table,2,238.00,,
+DH-455718,2026-09-07,2026-09-12,Kevin Carter,kevin.carter@example.org,+1 555-0182,326 Maple Street,Boise,ID,83738,US,ACC-9371186,9573,HG-1150,"Cast iron skillet, 10 inch",2,72.00,,
+DH-463890,2026-09-07,2026-09-21,Grace Moreau,grace.moreau@example.org,+1 555-0144,135 Pine Road,Columbus,OH,43275,US,ACC-8813090,9787,HG-4410,Folding bookshelf,1,94.00,,
+DH-467522,2026-09-07,2026-09-11,Andrew Bennett,andrew.bennett@example.com,+1 555-0126,645 Lakeview Road,Boise,ID,83701,US,ACC-4794980,1194,HG-1132,"Glass storage jars, set of 3",1,28.00,,
+DH-371145,2026-09-08,2026-09-12,Noah Lane,noah.lane@example.net,,386 Maple Street,Porto,,4000-071,PT,ACC-3735553,4981,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,,
+DH-393333,2026-09-08,2026-09-15,Elise Jansen,elise.jansen@example.com,+1 555-0122,349 River Street,Portland,OR,97273,US,ACC-7474109,0403,HG-1132,"Glass storage jars, set of 3",2,56.00,,
+DH-406976,2026-09-08,2026-09-13,Marta Palmer,marta.palmer@example.org,+1 555-0184,202 Lakeview Road,Omaha,NE,68163,US,ACC-9496711,5421,HG-2230,Glass pendant shade,1,54.00,damaged,2026-09-18
+DH-463815,2026-09-08,2026-09-12,Jason Fisher,jason.fisher@example.org,+1 555-0107,668 Hillside Avenue,Columbus,OH,43250,US,ACC-3561261,6342,HG-4410,Folding bookshelf,1,94.00,,
+DH-314258,2026-09-09,2026-09-12,Robert Carter,robert.carter@example.org,+1 555-0156,475 Oak Avenue,Denver,CO,80206,US,ACC-4502021,2267,HG-3318,Cotton throw blanket,1,48.00,changed_mind,2026-10-15
+DH-348307,2026-09-09,2026-09-17,Rachel Price,rachel.price@example.org,+1 555-0107,759 Park Place,Austin,TX,78734,US,ACC-2532399,6049,HG-2230,Glass pendant shade,1,54.00,,
+DH-350896,2026-09-09,2026-09-16,Felix Becker,felix.becker@example.com,+1 555-0161,159 Willow Way,Richmond,VA,23252,US,ACC-8087092,5043,HG-3325,"Wool rug, 5 x 7 ft",1,159.00,,
+DH-439572,2026-09-09,2026-09-17,Lisa Dixon,lisa.dixon@example.org,+1 555-0107,618 Cedar Lane,Tucson,AZ,85728,US,ACC-6121427,2143,HG-3318,Cotton throw blanket,1,48.00,,
+DH-480116,2026-09-09,2026-09-16,Andrew Hart,andrew.hart@example.com,+1 555-0195,914 Oak Avenue,Denver,CO,80205,US,ACC-4519869,3884,HG-4410,Folding bookshelf,1,94.00,wrong_item,2026-10-18
+DH-315810,2026-09-10,2026-09-23,Laura Fisher,laura.fisher@example.org,+1 555-0148,140 River Street,Raleigh,NC,27625,US,ACC-5950822,5137,HG-1104,"Stoneware dinner plates, set of 4",2,84.00,changed_mind,2026-11-07
+DH-357159,2026-09-10,2026-09-15,Laura Kowalski,laura.kowalski@example.org,+1 555-0154,948 Pine Road,Richmond,VA,23202,US,ACC-5397123,3218,HG-3325,"Wool rug, 5 x 7 ft",2,318.00,,
+DH-372402,2026-09-10,2026-09-14,Eric Hart,eric.hart@example.net,,866 Hillside Avenue,Porto,,4000-016,PT,ACC-8998121,6874,HG-1132,"Glass storage jars, set of 3",1,28.00,,
+DH-395119,2026-09-10,2026-09-13,Leon Webb,leon.webb@example.com,+1 555-0189,758 River Street,Denver,CO,80239,US,ACC-4707671,4375,HG-2230,Glass pendant shade,1,54.00,,
+DH-417165,2026-09-10,2026-09-13,Ines Bennett,ines.bennett@example.com,+1 555-0147,628 Birch Drive,Austin,TX,78701,US,ACC-4012696,4238,HG-1150,"Cast iron skillet, 10 inch",1,36.00,changed_mind,2026-10-27
+DH-301291,2026-09-11,2026-09-18,Emily Vermeer,emily.vermeer@example.org,+1 555-0125,382 Hillside Avenue,Raleigh,NC,27681,US,ACC-3225701,8208,HG-3318,Cotton throw blanket,2,96.00,,
+DH-325352,2026-09-11,2026-09-24,Michael Ferrari,michael.ferrari@example.org,+1 555-0112,896 Birch Drive,Madison,WI,53738,US,ACC-6031670,0716,HG-4410,Folding bookshelf,1,94.00,,
+DH-331481,2026-09-11,2026-09-18,Megan Rossi,megan.rossi@example.com,+1 555-0138,329 Birch Drive,Portland,OR,97258,US,ACC-5583121,0222,HG-2207,Ceramic table lamp,1,64.00,changed_mind,2026-10-10
+DH-411597,2026-09-11,2026-09-17,Nancy Holmes,nancy.holmes@example.org,+1 555-0168,214 Willow Way,Denver,CO,80290,US,ACC-7290692,3361,HG-1132,"Glass storage jars, set of 3",1,28.00,,
+DH-325527,2026-09-12,2026-09-17,Ethan Reed,ethan.reed@example.net,+1 555-0133,730 Elm Court,Portland,OR,97201,US,ACC-3072479,9919,HG-2207,Ceramic table lamp,1,64.00,,
+DH-362184,2026-09-12,2026-09-25,Ethan Bennett,ethan.bennett@example.net,+1 555-0105,881 Park Place,Boise,ID,83745,US,ACC-9745929,1426,HG-4402,Oak side table,1,119.00,damaged,2026-10-23
+DH-404030,2026-09-12,2026-09-18,Noah Dubois,noah.dubois@example.com,+1 555-0199,661 Elm Court,Austin,TX,78712,US,ACC-2979169,9742,HG-1150,"Cast iron skillet, 10 inch",1,36.00,,
+DH-441607,2026-09-12,2026-09-17,Maria Lindqvist,maria.lindqvist@example.com,+1 555-0162,635 Hillside Avenue,Portland,OR,97267,US,ACC-7818665,6293,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,,
+DH-459026,2026-09-12,2026-09-15,Pierre Webb,pierre.webb@example.net,+1 555-0199,515 Birch Drive,Tucson,AZ,85743,US,ACC-9991156,1491,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,,
+DH-313493,2026-09-13,2026-09-18,Michael Moreau,michael.moreau@example.com,+33 1 99 00 77 78,214 Oak Avenue,Lyon,,69004,FR,ACC-3071492,0182,HG-2207,Ceramic table lamp,1,64.00,,
+DH-385554,2026-09-13,2026-09-19,Laura Lindqvist,laura.lindqvist@example.org,+1 555-0138,735 Birch Drive,Omaha,NE,68198,US,ACC-6656918,6895,HG-2215,Brass floor lamp,2,258.00,,
+DH-435133,2026-09-13,2026-09-16,Patricia Griffin,patricia.griffin@example.org,+1 555-0132,16 Pine Road,Denver,CO,80280,US,ACC-5462117,2584,HG-1178,"Ceramic mixing bowls, set of 3",2,78.00,,
+DH-463103,2026-09-13,2026-09-20,Mia Mills,mia.mills@example.net,+1 555-0194,742 Birch Drive,Denver,CO,80275,US,ACC-7298365,7320,HG-2215,Brass floor lamp,2,258.00,,
+DH-308949,2026-09-14,2026-09-18,Sophie Moreau,sophie.moreau@example.org,+33 1 99 00 33 10,337 Lakeview Road,Lyon,,69004,FR,ACC-8466176,4663,HG-2230,Glass pendant shade,1,54.00,,
+DH-387368,2026-09-14,2026-09-17,Marta Dubois,marta.dubois@example.org,+1 555-0141,222 Pine Road,Austin,TX,78720,US,ACC-8785591,2983,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,wrong_item,2026-10-05
+DH-415412,2026-09-14,2026-09-19,Ines Moreau,ines.moreau@example.net,,311 Hillside Avenue,Ghent,,9029,BE,ACC-2289828,5706,HG-1104,"Stoneware dinner plates, set of 4",2,84.00,,
+DH-471321,2026-09-14,2026-09-25,Daniel Rossi,daniel.rossi@example.com,+1 555-0194,790 Hillside Avenue,Denver,CO,80256,US,ACC-7357771,6505,HG-2215,Brass floor lamp,1,129.00,changed_mind,2026-11-03
+DH-315125,2026-09-15,2026-09-19,James Palmer,james.palmer@example.org,+1 555-0147,925 Birch Drive,Denver,CO,80233,US,ACC-5440431,1598,HG-2230,Glass pendant shade,1,54.00,,
+DH-471316,2026-09-15,2026-09-22,Susan Rice,susan.rice@example.net,+1 555-0126,455 Meadow Lane,Tucson,AZ,85736,US,ACC-2738901,5985,HG-1132,"Glass storage jars, set of 3",1,28.00,damaged,2026-10-11
+DH-487366,2026-09-15,2026-09-26,Lukas Russell,lukas.russell@example.net,+1 555-0138,744 Hillside Avenue,Richmond,VA,23254,US,ACC-2049318,4430,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,,
+DH-308307,2026-09-16,2026-09-20,Anna Morgan,anna.morgan@example.org,+1 555-0180,251 Oak Avenue,Raleigh,NC,27628,US,ACC-5160646,4921,HG-4402,Oak side table,2,238.00,,
+DH-347381,2026-09-16,2026-09-21,David Weber,david.weber@example.org,+1 555-0193,689 River Street,Boise,ID,83752,US,ACC-9241740,1479,HG-2207,Ceramic table lamp,2,128.00,,
+DH-382045,2026-09-16,2026-09-20,Clara Lane,clara.lane@example.org,+1 555-0113,480 Hillside Avenue,Tucson,AZ,85755,US,ACC-9147742,4605,HG-1178,"Ceramic mixing bowls, set of 3",2,78.00,,
+DH-413800,2026-09-16,2026-09-24,Jason Hughes,jason.hughes@example.com,+1 555-0148,313 Willow Way,Omaha,NE,68120,US,ACC-8752708,2743,HG-4402,Oak side table,2,238.00,,
+DH-307141,2026-09-17,2026-09-25,Lisa Palmer,lisa.palmer@example.org,,406 Maple Street,Leipzig,,04184,DE,ACC-8757450,9429,HG-3325,"Wool rug, 5 x 7 ft",1,159.00,,
+DH-400832,2026-09-17,2026-09-29,Sophie Hart,sophie.hart2@example.org,,123 Pine Road,Porto,,4000-087,PT,ACC-9910774,1121,HG-3325,"Wool rug, 5 x 7 ft",1,159.00,,
+DH-429192,2026-09-17,2026-09-20,David Berg,david.berg@example.org,+1 555-0138,554 River Street,Austin,TX,78775,US,ACC-8429961,1436,HG-4402,Oak side table,1,119.00,,
+DH-468464,2026-09-17,2026-09-20,Daniel Carter,daniel.carter@example.net,+1 555-0141,771 Cedar Lane,Richmond,VA,23240,US,ACC-2163229,5405,HG-3325,"Wool rug, 5 x 7 ft",1,159.00,,
+DH-489643,2026-09-17,2026-09-22,Hannah Morgan,hannah.morgan@example.net,,130 River Street,Utrecht,,3551 AB,NL,ACC-5281104,2601,HG-3318,Cotton throw blanket,2,96.00,,
+DH-494518,2026-09-17,2026-09-20,Ryan Wallace,ryan.wallace@example.net,+1 555-0125,231 Oak Avenue,Omaha,NE,68144,US,ACC-9090257,2046,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,,
+DH-304016,2026-09-18,2026-09-23,Jason Palmer,jason.palmer@example.org,+1 555-0132,518 Cedar Lane,Madison,WI,53759,US,ACC-3798350,5547,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,,
+DH-346075,2026-09-18,2026-09-28,Jennifer Kowalski,jennifer.kowalski@example.org,,262 Elm Court,Utrecht,,3555 AB,NL,ACC-3029455,6093,HG-2207,Ceramic table lamp,2,128.00,,
+DH-349082,2026-09-18,2026-09-24,Brian Hart,brian.hart@example.org,+1 555-0160,278 Pine Road,Richmond,VA,23208,US,ACC-6373381,6165,HG-3325,"Wool rug, 5 x 7 ft",1,159.00,,
+DH-396094,2026-09-18,2026-09-24,Steven Rossi,steven.rossi@example.net,,722 River Street,Utrecht,,3587 AB,NL,ACC-7579202,7003,HG-4410,Folding bookshelf,1,94.00,,
+DH-472294,2026-09-18,2026-09-24,Anna Dubois,anna.dubois@example.org,,104 Meadow Lane,Porto,,4000-017,PT,ACC-5257077,8094,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,,
+DH-316817,2026-09-19,2026-09-26,Michael Lindqvist,michael.lindqvist@example.net,+1 555-0121,542 Maple Street,Austin,TX,78743,US,ACC-1356708,3808,HG-2207,Ceramic table lamp,1,64.00,,
+DH-341675,2026-09-19,2026-10-03,Ava Spencer,ava.spencer@example.com,+1 555-0188,432 Meadow Lane,Raleigh,NC,27604,US,ACC-9571007,7853,HG-4402,Oak side table,2,238.00,wrong_item,2026-10-03
+DH-363792,2026-09-19,2026-09-27,Maria Morgan,maria.morgan@example.com,+1 555-0152,489 Pine Road,Madison,WI,53743,US,ACC-1823885,9082,HG-3318,Cotton throw blanket,1,48.00,changed_mind,2026-11-10
+DH-415547,2026-09-19,2026-09-24,Laura Lindqvist,laura.lindqvist@example.com,+1 555-0144,565 Hillside Avenue,Denver,CO,80270,US,ACC-7102006,1913,HG-2215,Brass floor lamp,1,129.00,,
+DH-432482,2026-09-19,2026-09-24,Thomas Palmer,thomas.palmer@example.net,,947 Birch Drive,Utrecht,,3541 AB,NL,ACC-8638666,9074,HG-1150,"Cast iron skillet, 10 inch",1,36.00,damaged,2026-09-24
+DH-490169,2026-09-19,2026-09-24,Ava Porter,ava.porter@example.com,+1 555-0107,642 Oak Avenue,Columbus,OH,43214,US,ACC-6072913,9521,HG-1178,"Ceramic mixing bowls, set of 3",2,78.00,,
+DH-337362,2026-09-20,2026-09-26,Laura Ward,laura.ward@example.org,+1 555-0112,116 Pine Road,Madison,WI,53747,US,ACC-3944709,6477,HG-3325,"Wool rug, 5 x 7 ft",1,159.00,,
+DH-351283,2026-09-20,2026-09-23,Eric Mills,eric.mills2@example.com,+1 555-0130,183 Pine Road,Tucson,AZ,85761,US,ACC-7443622,2233,HG-3325,"Wool rug, 5 x 7 ft",1,159.00,,
+DH-363191,2026-09-20,2026-09-25,Andrew Price,andrew.price@example.net,+1 555-0147,743 Pine Road,Tucson,AZ,85775,US,ACC-1049167,7846,HG-2230,Glass pendant shade,1,54.00,,
+DH-412105,2026-09-20,2026-09-23,Jason Price,jason.price@example.org,+1 555-0185,140 Meadow Lane,Tucson,AZ,85738,US,ACC-9809066,8982,HG-3318,Cotton throw blanket,1,48.00,damaged,2026-10-01
+DH-367695,2026-09-21,2026-09-29,Maria Lindqvist,maria.lindqvist@example.org,,875 River Street,Leipzig,,04149,DE,ACC-9726848,5188,HG-3301,"Linen duvet cover, queen",1,89.00,,
+DH-427600,2026-09-21,2026-09-25,Pierre Shaw,pierre.shaw@example.org,+1 555-0139,772 Hillside Avenue,Austin,TX,78712,US,ACC-7317699,3145,HG-2215,Brass floor lamp,1,129.00,,
+DH-490731,2026-09-21,2026-09-28,Karen Foster,karen.foster@example.com,+1 555-0176,905 Meadow Lane,Portland,OR,97247,US,ACC-3128071,9268,HG-1132,"Glass storage jars, set of 3",1,28.00,,
+DH-308098,2026-09-22,2026-09-30,Laura Moreau,laura.moreau@example.org,+33 1 99 00 42 32,322 Lakeview Road,Lyon,,69002,FR,ACC-7549836,2325,HG-2215,Brass floor lamp,2,258.00,,
+DH-396812,2026-09-22,2026-09-27,Tomas Palmer,tomas.palmer@example.com,+1 555-0112,144 Meadow Lane,Richmond,VA,23206,US,ACC-7586068,5058,HG-2215,Brass floor lamp,2,258.00,,
+DH-372395,2026-09-23,2026-09-28,Andrew Bennett,andrew.bennett@example.org,+33 1 99 00 95 92,671 Elm Court,Lyon,,69016,FR,ACC-2384563,7745,HG-2207,Ceramic table lamp,1,64.00,changed_mind,2026-10-12
+DH-394711,2026-09-23,2026-09-26,Mia Hart,mia.hart@example.org,+1 555-0123,230 River Street,Omaha,NE,68151,US,ACC-7312730,8593,HG-1104,"Stoneware dinner plates, set of 4",2,84.00,,
+DH-446185,2026-09-23,2026-09-29,Ryan Ward,ryan.ward@example.org,+1 555-0162,687 River Street,Omaha,NE,68135,US,ACC-7027574,6392,HG-4410,Folding bookshelf,1,94.00,,
+DH-486573,2026-09-23,2026-09-27,Emily Barnes,emily.barnes@example.org,,283 River Street,Porto,,4000-004,PT,ACC-5913908,4778,HG-4402,Oak side table,1,119.00,,
+DH-318198,2026-09-24,2026-09-27,Sophie Berg,sophie.berg@example.org,+33 1 99 00 46 16,100 Willow Way,Lyon,,69066,FR,ACC-1912182,1417,HG-1132,"Glass storage jars, set of 3",1,28.00,,
+DH-328089,2026-09-24,2026-10-07,Susan Webb,susan.webb@example.org,+1 555-0159,737 Cedar Lane,Raleigh,NC,27694,US,ACC-4116585,7401,HG-3301,"Linen duvet cover, queen",1,89.00,,
+DH-342807,2026-09-24,2026-09-30,Andrew Fisher,andrew.fisher@example.org,+1 555-0193,258 Meadow Lane,Portland,OR,97204,US,ACC-5152020,0793,HG-3301,"Linen duvet cover, queen",1,89.00,,
+DH-363193,2026-09-24,2026-09-27,Jonas Holmes,jonas.holmes@example.org,+1 555-0154,643 Cedar Lane,Raleigh,NC,27663,US,ACC-5708999,4476,HG-3318,Cotton throw blanket,1,48.00,changed_mind,2026-10-27
+DH-383469,2026-09-24,2026-09-27,Lukas Jansen,lukas.jansen@example.net,+1 555-0177,935 Pine Road,Denver,CO,80250,US,ACC-9796541,9900,HG-1132,"Glass storage jars, set of 3",2,56.00,,
+DH-389843,2026-09-24,2026-09-30,Jason Lane,jason.lane@example.com,+1 555-0153,527 Birch Drive,Tucson,AZ,85703,US,ACC-7429073,0829,HG-2215,Brass floor lamp,1,129.00,wrong_item,2026-11-02
+DH-394020,2026-09-24,2026-10-02,Leon Ward,leon.ward@example.net,+1 555-0115,173 Elm Court,Austin,TX,78734,US,ACC-3546497,8759,HG-3301,"Linen duvet cover, queen",1,89.00,,
+DH-429103,2026-09-24,2026-09-28,Maria Moreau,maria.moreau@example.org,+1 555-0177,789 Willow Way,Portland,OR,97213,US,ACC-9588015,7466,HG-1132,"Glass storage jars, set of 3",1,28.00,damaged,2026-11-11
+DH-469594,2026-09-24,2026-10-02,Felix Dixon,felix.dixon@example.net,+1 555-0135,106 Hillside Avenue,Tucson,AZ,85704,US,ACC-9406953,8001,HG-3301,"Linen duvet cover, queen",1,89.00,damaged,2026-11-02
+DH-480445,2026-09-24,2026-10-01,Leon Weber,leon.weber2@example.net,+1 555-0172,563 Elm Court,Richmond,VA,23255,US,ACC-8684386,1082,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,damaged,2026-11-01
+DH-303094,2026-09-25,2026-10-04,Susan Jansen,susan.jansen@example.net,+1 555-0122,114 Willow Way,Madison,WI,53748,US,ACC-3951584,7190,HG-1104,"Stoneware dinner plates, set of 4",2,84.00,,
+DH-304918,2026-09-25,2026-10-03,Grace Jansen,grace.jansen@example.org,+1 555-0138,404 River Street,Madison,WI,53710,US,ACC-4272772,9497,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,changed_mind,2026-10-04
+DH-434457,2026-09-25,2026-09-29,Marta Moreau,marta.moreau@example.net,,797 Birch Drive,Graz,,8064,AT,ACC-9224531,6638,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,,
+DH-317311,2026-09-26,2026-09-29,Pierre Spencer,pierre.spencer@example.com,+1 555-0149,193 Maple Street,Denver,CO,80255,US,ACC-3934148,8789,HG-1150,"Cast iron skillet, 10 inch",1,36.00,,
+DH-345987,2026-09-26,2026-10-01,Megan Lindqvist,megan.lindqvist@example.com,+1 555-0180,396 Oak Avenue,Omaha,NE,68168,US,ACC-3682064,3370,HG-3301,"Linen duvet cover, queen",1,89.00,,
+DH-399223,2026-09-26,2026-09-30,Jason Ward,jason.ward@example.org,+1 555-0100,579 Cedar Lane,Austin,TX,78738,US,ACC-5982457,3729,HG-2230,Glass pendant shade,2,108.00,damaged,2026-11-06
+DH-481875,2026-09-26,2026-10-02,Thomas Becker,thomas.becker@example.com,+1 555-0103,108 Hillside Avenue,Richmond,VA,23298,US,ACC-5593044,7449,HG-2207,Ceramic table lamp,1,64.00,,
+DH-444542,2026-09-27,2026-10-05,Matteo Fox,matteo.fox@example.com,+1 555-0193,960 Park Place,Portland,OR,97290,US,ACC-8798747,3250,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,,
+DH-325784,2026-09-28,2026-10-05,Emily Lane,emily.lane@example.net,+1 555-0162,20 River Street,Richmond,VA,23299,US,ACC-1332426,6610,HG-1104,"Stoneware dinner plates, set of 4",1,42.00,changed_mind,2026-10-20
+DH-353815,2026-09-28,2026-10-02,Olivia Kowalski,olivia.kowalski@example.net,,189 Birch Drive,Porto,,4000-053,PT,ACC-2923292,3580,HG-1178,"Ceramic mixing bowls, set of 3",1,39.00,,
+DH-397624,2026-09-28,2026-10-05,Mark Palmer,mark.palmer@example.net,+1 555-0133,375 Birch Drive,Madison,WI,53734,US,ACC-7412553,3576,HG-1132,"Glass storage jars, set of 3",1,28.00,,
+DH-414105,2026-09-28,2026-10-02,Michael Vermeer,michael.vermeer@example.org,,107 Maple Street,Porto,,4000-064,PT,ACC-4084266,8633,HG-3301,"Linen duvet cover, queen",1,89.00,,
+DH-441031,2026-09-28,2026-10-03,Laura Novak,laura.novak@example.org,+1 555-0171,15 Cedar Lane,Richmond,VA,23290,US,ACC-6484477,1155,HG-3301,"Linen duvet cover, queen",1,89.00,changed_mind,2026-10-06
+DH-453342,2026-09-28,2026-10-06,Steven Fisher,steven.fisher@example.com,+1 555-0128,559 Pine Road,Madison,WI,53761,US,ACC-2492091,7401,HG-4410,Folding bookshelf,1,94.00,,
+DH-313480,2026-09-29,2026-10-05,Matteo Spencer,matteo.spencer@example.com,+1 555-0125,626 Willow Way,Boise,ID,83722,US,ACC-9024450,8716,HG-4402,Oak side table,1,119.00,,
+DH-322208,2026-09-29,2026-10-04,Ethan Moreau,ethan.moreau@example.com,+1 555-0124,345 River Street,Omaha,NE,68115,US,ACC-1445821,0168,HG-4402,Oak side table,1,119.00,changed_mind,2026-10-06
+DH-344493,2026-09-29,2026-10-06,Rachel Ward,rachel.ward@example.org,,174 Hillside Avenue,Leipzig,,04181,DE,ACC-2886453,8625,HG-3325,"Wool rug, 5 x 7 ft",1,159.00,wrong_item,2026-10-18
+DH-364599,2026-09-29,2026-10-04,Steven Spencer,steven.spencer@example.org,+1 555-0138,581 Park Place,Austin,TX,78722,US,ACC-1677898,9789,HG-4402,Oak side table,1,119.00,,
+DH-383353,2026-09-29,2026-10-03,Thomas Weber,thomas.weber2@example.org,+1 555-0141,858 Cedar Lane,Portland,OR,97260,US,ACC-9793916,1361,HG-1132,"Glass storage jars, set of 3",2,56.00,changed_mind,2026-11-15
+DH-398130,2026-09-29,2026-10-04,Sophie Coleman,sophie.coleman@example.com,+1 555-0193,688 Oak Avenue,Omaha,NE,68155,US,ACC-5896606,5863,HG-4410,Folding bookshelf,1,94.00,,
+DH-389235,2026-09-30,2026-10-07,David Hart,david.hart@example.org,+1 555-0199,336 Maple Street,Columbus,OH,43203,US,ACC-2539321,9529,HG-1132,"Glass storage jars, set of 3",1,28.00,,
+DH-423556,2026-09-30,2026-10-07,James Graham,james.graham@example.org,+1 555-0144,963 Oak Avenue,Madison,WI,53755,US,ACC-8149373,1809,HG-3301,"Linen duvet cover, queen",1,89.00,,
+DH-485066,2026-09-30,2026-10-12,Maria Rice,maria.rice@example.com,+1 555-0140,321 Park Place,Omaha,NE,68152,US,ACC-7841211,9234,HG-1132,"Glass storage jars, set of 3",1,28.00,,

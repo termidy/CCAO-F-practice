@@ -1,0 +1,24 @@
+Email 1
+From: Kevin Morgan <kevin.morgan@example.com>
+Subject: Where is my order?
+My order DH-402790 was supposed to arrive this week, and the tracking page has not changed for three days. Can you check where it is?
+
+Email 2
+From: Megan Shaw <megan.shaw@example.net>
+Subject: Lamp
+Hi, my lamp arrived with a cracked base. The box was fine, the lamp was not. Order DH-405133.
+
+Email 3
+From: Daniel Price <daniel.price@example.org>
+Subject: Charged twice
+I was charged $89.00 twice for order DH-404871. Please refund the second charge.
+
+Email 4
+From: Sophie Weber <sophie.weber@example.com>
+Subject: Sending back a blanket
+The cotton throw blanket from order DH-404512 does not go with my sofa after all. How do I send it back?
+
+Email 5
+From: Paul Hayes <paul.hayes@example.net>
+Subject: Return shipping cost
+I want to return the wool rug from order DH-405020. Do I have to pay for the return shipping, or is it free?

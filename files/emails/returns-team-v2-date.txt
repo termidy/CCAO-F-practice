@@ -1,0 +1,19 @@
+From: DemoHome Returns Team <returns@demohome.example>
+To: DemoHome Support <support@demohome.example>
+Subject: Return policy v2 takes effect on October 1, 2026
+
+Hello support team,
+
+Version 2 of the DemoHome return policy takes effect on October 1, 2026. Until then, Version 1 applies.
+
+What changes on October 1:
+- Damaged-item exceptions, including case-by-case reviews of damage reported after the 30-day return window, are decided by the returns team. Please send these cases to us, not to the support lead.
+- Send each case with the order number, the delivery date, the customer's description and the photos from the returns form.
+- Return shipping becomes free on orders over $50.
+
+The 30-day return window does not change.
+
+The new policy document, "DemoHome Return Policy v2", is in the DemoHome Policies folder.
+
+Thank you,
+DemoHome Returns Team

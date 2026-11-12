@@ -1,0 +1,11 @@
+From: Elena Brooks <elena.brooks@demohome.example>
+To: Dana Whitfield <dana.whitfield@demohome.example>
+Subject: Let's have Claude handle returns
+
+Dana,
+
+The returns queue keeps growing and the answers still differ from agent to agent. Let's have Claude handle returns.
+
+Can you send me a plan by Friday?
+
+Elena

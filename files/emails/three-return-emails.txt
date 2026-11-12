@@ -1,0 +1,17 @@
+Three customer emails about returns they have sent back.
+All were received on September 28, 2026.
+
+Email 1
+From: Nancy Graham <nancy.graham@example.com>
+Subject: Return for order DH-406215
+Hello, I sent back the stoneware dinner plates from order DH-406215. Two of the four plates arrived chipped. I paid $42.00 for the set. I dropped the parcel off on September 22. Please confirm when the refund is on its way.
+
+Email 2
+From: Matteo Rossi <matteo.rossi@example.net>
+Subject: Two items back
+Hi, I returned two things from order DH-406388: the linen duvet cover ($89.00), which came in grey although I ordered sand, and the cotton throw blanket ($48.00), which I simply do not like. Both went back in one box last Tuesday.
+
+Email 3
+From: Olivia Spencer <olivia.spencer@example.org>
+Subject: Floor lamp refund
+Please refund the brass floor lamp, order DH-406502, $129. It was delivered on September 13 and the light flickers when it is on. I took it to the DemoParcel drop-off on September 3 with the returns label.

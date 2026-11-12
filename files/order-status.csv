@@ -1,0 +1,12 @@
+order_id,sku,product,status,carrier,shipped_date,estimated_delivery,delivered_date
+DH-402118,HG-3318,Cotton throw blanket,shipped,DemoParcel,2026-09-11,2026-09-16,
+DH-402377,HG-1104,"Stoneware dinner plates, set of 4",delivered,DemoParcel,2026-09-07,2026-09-10,2026-09-10
+DH-402561,HG-4402,Oak side table,processing,,,2026-09-18,
+DH-402790,HG-2215,Brass floor lamp,shipped,DemoFreight,2026-09-09,2026-09-15,
+DH-403014,HG-1150,"Cast iron skillet, 10 inch",delayed,DemoParcel,2026-09-08,2026-09-17,
+DH-403236,HG-3301,"Linen duvet cover, queen",delivered,DemoParcel,2026-09-06,2026-09-09,2026-09-09
+DH-403458,HG-1132,"Glass storage jars, set of 3",cancelled,,,,
+DH-403672,HG-3325,"Wool rug, 5 x 7 ft",shipped,DemoFreight,2026-09-10,2026-09-17,
+DH-403809,HG-4410,Folding bookshelf,backordered,,,2026-09-29,
+DH-404025,HG-2230,Glass pendant shade,returned_to_sender,DemoParcel,2026-09-03,,
+DH-399412,HG-4402,Oak side table,delivered,DemoFreight,2026-07-24,2026-07-30,2026-07-30

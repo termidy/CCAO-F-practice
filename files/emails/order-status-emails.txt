@@ -1,0 +1,52 @@
+Ten customer emails about order status. All were received on September 14, 2026.
+The status of each order is in order-status.csv.
+
+Email 1
+From: Laura Fisher <laura.fisher@example.com>
+Order: DH-402118
+Hi, when will my throw blanket arrive? I got an email that it shipped.
+
+Email 2
+From: Brian Hart <brian.hart@example.net>
+Order: DH-402377
+The tracking says my plates were delivered, but I have not checked the porch yet. Can you confirm the delivery date?
+
+Email 3
+From: Clara Jansen <clara.jansen@example.org>
+Order: DH-402561
+I ordered the oak side table last week. Has it shipped yet?
+
+Email 4
+From: Eric Palmer <eric.palmer@example.com>
+Order: DH-402790
+Which carrier is bringing my floor lamp, and when should I expect it?
+
+Email 5
+From: Grace Mills <grace.mills@example.net>
+Order: DH-403014
+My skillet was supposed to arrive by now. What is going on?
+
+Email 6
+From: Thomas Reed <thomas.reed@example.com>
+Order: DH-403236
+Just checking that my duvet cover order went through. I have not seen anything.
+
+Email 7
+From: Ines Moreau <ines.moreau@example.org>
+Order: DH-403458
+I have not received my storage jars. Can you look into it?
+
+Email 8
+From: Ryan Webb <ryan.webb@example.com>
+Order: DH-403672
+Is my rug on the way? I need it before the weekend of September 19.
+
+Email 9
+From: Hannah Coleman <hannah.coleman@example.net>
+Order: DH-403809
+When will the folding bookshelf ship? The page said in stock when I ordered.
+
+Email 10
+From: Lukas Berg <lukas.berg@example.org>
+Order: DH-404025
+My tracking page says "returned to sender". I never got my pendant shade. What happens now?

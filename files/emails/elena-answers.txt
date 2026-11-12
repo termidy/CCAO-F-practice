@@ -1,0 +1,25 @@
+From: Elena Brooks <elena.brooks@demohome.example>
+To: Dana Whitfield <dana.whitfield@demohome.example>
+Subject: Re: Let's have Claude handle returns - your questions
+
+Dana,
+
+Answers to your questions:
+
+1. By "handle" I mean that Claude writes the first draft of the reply. An agent reads every draft and sends it. Claude does not send anything to customers and does not approve refunds or exceptions.
+
+2. Start with damaged-item emails only. They take the longest, and that is where the answers differ most.
+
+3. The users are our support agents. Sam is the newest agent, so the drafts and the form have to work for someone in his first weeks.
+
+4. The source is the current return policy, Version 2. Nothing else. Exceptions stay with the returns team.
+
+5. No customer data goes into any tool that Tom has not approved.
+
+6. What I want to know at the end: do agents spend less time looking for the right policy section, does any draft promise something the policy does not allow, and does the returns team get complete cases.
+
+7. I do not have numbers for how long agents take today. If we need them, we have to measure them first.
+
+8. I would like to decide on a short pilot, not a full rollout. Two weeks and a few agents is the size I have in mind.
+
+Elena

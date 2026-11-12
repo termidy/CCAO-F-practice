@@ -1,0 +1,86 @@
+record_id,contact_date,channel,order_id,sku,product,order_total_usd,order_date,delivery_date,reason_code,photos_attached,summary,status
+CL-0001,2026-07-04,email,DH-457331,HG-2207,Ceramic table lamp,64.00,2026-05-29,2026-06-01,changed_mind,no,Color looks different from the photos.,declined
+CL-0002,2026-07-05,email,DH-335187,HG-4410,Folding bookshelf,94.00,2026-07-02,2026-07-05,damaged,no,"Hinge bent, shelf does not fold flat.",replaced
+CL-0003,2026-07-08,returns_form,DH-325880,HG-1178,"Ceramic mixing bowls, set of 3",39.00,2026-06-28,2026-07-04,wrong_item,yes,Received a different finish than ordered.,refunded
+CL-0004,2026-07-09,email,DH-337883,HG-2207,Ceramic table lamp,64.00,2026-06-28,2026-07-06,changed_mind,no,Gift that the recipient did not want.,refunded
+CL-0005,2026-07-10,email,DH-486904,HG-1178,"Ceramic mixing bowls, set of 3",39.00,2026-07-04,2026-07-07,damaged,no,Two plates chipped in the box.,replaced
+CL-0006,2026-07-11,email,DH-406891,HG-4410,Folding bookshelf,94.00,2026-06-24,2026-07-02,wrong_item,no,Received a different size than ordered.,replaced
+CL-0007,2026-07-12,email,DH-300492,HG-2230,Glass pendant shade,54.00,2026-06-10,,changed_mind,no,"Ordered two by mistake, returning one.",refunded
+CL-0008,2026-07-13,email,DH-334583,HG-1178,"Ceramic mixing bowls, set of 3",39.00,2026-06-22,2026-06-29,changed_mind,no,Does not match the room.,refunded
+CL-0009,2026-07-13,returns_form,DH-341896,HG-1104,"Stoneware dinner plates, set of 4",84.00,2026-07-09,2026-07-13,wrong_item,yes,Received a different color than ordered.,replaced
+CL-0010,2026-07-14,email,DH-430777,HG-2215,Brass floor lamp,129.00,2026-07-01,2026-07-08,wrong_item,no,Wrong item in the box (a different SKU).,refunded
+CL-0011,2026-07-14,email,DH-479010,HG-2230,Glass pendant shade,54.00,2026-05-14,2026-05-21,damaged,yes,Glass shade arrived in pieces.,case_review
+CL-0012,2026-07-15,chat,DH-321255,HG-2215,Brass floor lamp,129.00,2026-07-05,2026-07-13,wrong_item,no,Fewer pieces in the box than the set lists.,replaced
+CL-0013,2026-07-16,email,DH-446423,HG-2230,Glass pendant shade,54.00,2026-06-29,2026-07-05,changed_mind,no,Does not match the room.,refunded
+CL-0014,2026-07-16,email,DH-400272,HG-2207,Ceramic table lamp,64.00,2026-07-11,2026-07-15,damaged,yes,"Shade dented, box crushed at one corner.",replaced
+CL-0015,2026-07-17,email,DH-317556,HG-1178,"Ceramic mixing bowls, set of 3",39.00,2026-07-09,2026-07-13,damaged,no,Chip on the rim of one plate.,replaced
+CL-0016,2026-07-18,returns_form,DH-312764,HG-1104,"Stoneware dinner plates, set of 4",42.00,2026-07-04,2026-07-07,changed_mind,no,Gift that the recipient did not want.,refunded
+CL-0017,2026-07-20,returns_form,DH-388675,HG-1104,"Stoneware dinner plates, set of 4",42.00,2026-07-08,2026-07-15,damaged,no,"Box wet, one jar shattered.",replaced
+CL-0018,2026-07-20,email,DH-480517,HG-2207,Ceramic table lamp,64.00,2026-05-22,2026-05-25,damaged,yes,Glass shade arrived in pieces.,replaced
+CL-0019,2026-07-20,email,DH-308114,HG-4402,Oak side table,119.00,2026-07-10,2026-07-15,changed_mind,no,Fabric feels thinner than expected.,refunded
+CL-0020,2026-07-21,email,DH-467630,HG-1150,"Cast iron skillet, 10 inch",36.00,2026-06-17,2026-06-24,changed_mind,no,Fabric feels thinner than expected.,refunded
+CL-0021,2026-07-21,chat,DH-455161,HG-1104,"Stoneware dinner plates, set of 4",84.00,2026-06-12,2026-06-16,changed_mind,no,Gift that the recipient did not want.,declined
+CL-0022,2026-07-22,email,DH-472017,HG-1132,"Glass storage jars, set of 3",56.00,2026-06-27,2026-07-04,damaged,yes,Chip on the rim of one plate.,replaced
+CL-0023,2026-07-23,chat,DH-434484,HG-3318,Cotton throw blanket,96.00,2026-06-03,2026-06-06,changed_mind,no,Fabric feels thinner than expected.,declined
+CL-0024,2026-07-23,chat,DH-301558,HG-4402,Oak side table,119.00,2026-07-14,2026-07-19,damaged,yes,Corner of the table top dented.,replaced
+CL-0025,2026-07-23,email,DH-301558,HG-4402,Oak side table,119.00,2026-07-14,2026-07-19,damaged,yes,Corner of the table top dented.,replaced
+CL-0026,2026-07-26,email,DH-323161,HG-4402,Oak side table,119.00,2026-06-26,2026-07-03,wrong_item,no,Wrong item in the box (a different SKU).,refunded
+CL-0027,2026-07-27,returns_form,DH-409699,HG-4402,Oak side table,119.00,2026-07-14,2026-07-19,wrong_item,no,Received a different color than ordered.,refunded
+CL-0028,2026-07-28,chat,DH-320170,HG-1104,"Stoneware dinner plates, set of 4",84.00,2026-06-04,2026-06-09,damaged,yes,"Box wet, one jar shattered.",declined
+CL-0029,2026-07-30,returns_form,DH-480230,HG-4402,Oak side table,119.00,2026-06-26,2026-06-30,changed_mind,no,Gift that the recipient did not want.,refunded
+CL-0030,2026-07-30,chat,DH-337953,HG-1132,"Glass storage jars, set of 3",28.00,2026-07-17,2026-07-22,damaged,no,"Box wet, one jar shattered.",replaced
+CL-0031,2026-07-31,email,DH-301862,HG-1104,"Stoneware dinner plates, set of 4",42.00,2026-07-20,2026-07-28,damaged,yes,Chip on the rim of one plate.,refunded
+CL-0032,2026-07-31,email,DH-446842,HG-1132,"Glass storage jars, set of 3",28.00,2026-06-24,2026-07-02,changed_mind,no,Color looks different from the photos.,refunded
+CL-0033,2026-08-02,chat,DH-324643,HG-1132,"Glass storage jars, set of 3",28.00,2026-07-09,2026-07-16,wrong_item,yes,Wrong item in the box (a different SKU).,refunded
+CL-0034,2026-08-03,email,DH-406636,HG-3318,Cotton throw blanket,96.00,2026-07-23,2026-07-30,changed_mind,no,Fabric feels thinner than expected.,refunded
+CL-0035,2026-08-04,email,DH-414489,HG-1104,"Stoneware dinner plates, set of 4",42.00,2026-07-02,2026-07-07,wrong_item,yes,Received a different color than ordered.,replaced
+CL-0036,2026-08-06,email,DH-409757,HG-1178,"Ceramic mixing bowls, set of 3",39.00,2026-07-27,2026-08-01,wrong_item,no,Received a different size than ordered.,refunded
+CL-0037,2026-08-07,returns_form,DH-436010,HG-2230,Glass pendant shade,54.00,2026-06-30,2026-07-08,changed_mind,no,Does not match the room.,refunded
+CL-0038,2026-08-08,email,DH-479106,HG-2215,Brass floor lamp,129.00,2026-07-25,,damaged,yes,"Switch housing broken, lamp does not turn on.",replaced
+CL-0039,2026-08-08,email,DH-348774,HG-3325,"Wool rug, 5 x 7 ft",159.00,2026-08-03,,wrong_item,no,Received a different size than ordered.,refunded
+CL-0040,2026-08-11,email,DH-431236,HG-4410,Folding bookshelf,188.00,2026-06-05,,damaged,yes,"Table top scratched, one leg loose.",case_review
+CL-0041,2026-08-12,email,DH-424216,HG-1104,"Stoneware dinner plates, set of 4",42.00,2026-08-05,2026-08-09,damaged,no,Two plates chipped in the box.,replaced
+CL-0042,2026-08-13,email,DH-470391,HG-1104,"Stoneware dinner plates, set of 4",84.00,2026-07-08,2026-07-15,changed_mind,no,Gift that the recipient did not want.,refunded
+CL-0043,2026-08-14,email,DH-415239,HG-1104,"Stoneware dinner plates, set of 4",84.00,2026-06-24,2026-07-02,damaged,no,Chip on the rim of one plate.,replaced
+CL-0044,2026-08-17,email,DH-488503,HG-1178,"Ceramic mixing bowls, set of 3",78.00,2026-08-09,2026-08-17,damaged,yes,"Box wet, one jar shattered.",replaced
+CL-0045,2026-08-19,email,DH-390750,HG-2215,Brass floor lamp,129.00,2026-08-05,2026-08-12,damaged,yes,Glass shade arrived in pieces.,refunded
+CL-0046,2026-08-20,chat,DH-481942,HG-2207,Ceramic table lamp,64.00,2026-07-29,2026-08-05,damaged,yes,"Hairline crack in the base, noticed when unpacking.",replaced
+CL-0047,2026-08-21,chat,DH-354374,HG-2207,Ceramic table lamp,128.00,2026-07-09,2026-07-13,changed_mind,no,"Ordered two by mistake, returning one.",declined
+CL-0048,2026-08-22,email,DH-394577,HG-4410,Folding bookshelf,94.00,2026-08-07,2026-08-15,damaged,no,Shelf panel split along the grain.,replaced
+CL-0049,2026-08-23,email,DH-340541,HG-2230,Glass pendant shade,54.00,2026-08-16,,damaged,yes,"Switch housing broken, lamp does not turn on.",replaced
+CL-0050,2026-08-26,email,DH-459411,HG-1104,"Stoneware dinner plates, set of 4",84.00,2026-08-20,,damaged,no,Bowl arrived broken.,refunded
+CL-0051,2026-08-27,email,DH-411905,HG-4402,Oak side table,119.00,2026-06-29,,damaged,yes,Shelf panel split along the grain.,replaced
+CL-0052,2026-08-28,email,DH-469234,HG-4402,Oak side table,119.00,2026-07-31,,damaged,yes,Corner of the table top dented.,refunded
+CL-0053,2026-08-28,email,DH-437355,HG-2207,Ceramic table lamp,64.00,2026-08-06,,changed_mind,no,Gift that the recipient did not want.,refunded
+CL-0054,2026-08-30,returns_form,DH-311366,HG-2230,Glass pendant shade,54.00,2026-08-15,2026-08-21,wrong_item,no,Received a different size than ordered.,replaced
+CL-0055,2026-08-30,chat,DH-330536,HG-4402,Oak side table,119.00,2026-08-22,2026-08-29,damaged,no,Corner of the table top dented.,refunded
+CL-0056,2026-08-31,email,DH-366949,HG-3301,"Linen duvet cover, queen",89.00,2026-08-20,,changed_mind,no,"Ordered two by mistake, returning one.",refunded
+CL-0057,2026-09-01,email,DH-336332,HG-4402,Oak side table,238.00,2026-08-18,2026-08-24,damaged,yes,Corner of the table top dented.,refunded
+CL-0058,2026-09-02,email,DH-429938,HG-3318,Cotton throw blanket,48.00,2026-08-25,2026-08-30,changed_mind,no,"Found a different style, no longer needed.",refunded
+CL-0059,2026-09-03,chat,DH-484687,HG-1104,"Stoneware dinner plates, set of 4",42.00,2026-08-21,2026-08-29,damaged,yes,"Box wet, one jar shattered.",replaced
+CL-0060,2026-09-06,email,DH-333895,HG-1104,"Stoneware dinner plates, set of 4",42.00,2026-08-13,2026-08-17,changed_mind,no,Gift that the recipient did not want.,refunded
+CL-0061,2026-09-07,email,DH-432628,HG-2230,Glass pendant shade,54.00,2026-08-14,2026-08-22,changed_mind,no,Does not match the room.,refunded
+CL-0062,2026-09-07,email,DH-469202,HG-1104,"Stoneware dinner plates, set of 4",42.00,2026-08-05,2026-08-09,changed_mind,no,Too large for the space.,refunded
+CL-0063,2026-09-08,email,DH-304832,HG-3325,"Wool rug, 5 x 7 ft",159.00,2026-08-14,2026-08-18,changed_mind,no,Fabric feels thinner than expected.,refunded
+CL-0064,2026-09-09,chat,DH-489951,HG-1178,"Ceramic mixing bowls, set of 3",39.00,2026-07-27,2026-08-01,changed_mind,no,Too large for the space.,declined
+CL-0065,2026-09-09,email,DH-374762,HG-4402,Oak side table,119.00,2026-09-03,2026-09-07,damaged,yes,"Hinge bent, shelf does not fold flat.",replaced
+CL-0066,2026-09-10,email,DH-367697,HG-2230,Glass pendant shade,54.00,2026-08-15,2026-08-22,changed_mind,no,"Ordered two by mistake, returning one.",refunded
+CL-0067,2026-09-11,returns_form,DH-457332,HG-4410,Folding bookshelf,94.00,2026-09-03,2026-09-06,damaged,no,"Hinge bent, shelf does not fold flat.",replaced
+CL-0068,2026-09-12,email,DH-319228,HG-2215,Brass floor lamp,129.00,2026-09-03,2026-09-10,damaged,yes,"Shade dented, box crushed at one corner.",replaced
+CL-0069,2026-09-14,returns_form,DH-439971,HG-4410,Folding bookshelf,94.00,2026-08-18,2026-08-26,Damaged,yes,"Hinge bent, shelf does not fold flat.",replaced
+CL-0070,2026-09-14,email,DH-468665,HG-1132,"Glass storage jars, set of 3",28.00,2026-09-01,2026-09-08,damaged,yes,"One jar cracked, lid missing.",replaced
+CL-0071,2026-09-18,email,DH-347624,HG-4410,Folding bookshelf,94.00,2026-09-02,2026-09-09,changed_mind,no,Fabric feels thinner than expected.,refunded
+CL-0072,2026-09-19,email,DH-387684,HG-4410,Folding bookshelf,94.00,2026-08-18,2026-08-25,changed_mind,no,Gift that the recipient did not want.,refunded
+CL-0073,2026-09-20,email,DH-425554,HG-2207,Ceramic table lamp,64.00,2026-09-14,2026-09-18,wrong_item,no,Wrong item in the box (a different SKU).,replaced
+CL-0074,2026-09-21,email,DH-376552,HG-3325,"Wool rug, 5 x 7 ft",159.00,2026-09-07,2026-09-13,changed_mind,no,Color looks different from the photos.,refunded
+CL-0075,2026-09-21,returns_form,DH-381605,HG-4410,Folding bookshelf,94.00,2026-08-28,,changed_mind,no,Gift that the recipient did not want.,refunded
+CL-0076,2026-09-22,email,DH-340480,HG-1132,"Glass storage jars, set of 3",28.00,2026-09-14,2026-09-20,damaged,yes,"Box wet, one jar shattered.",replaced
+CL-0077,2026-09-24,email,DH-344676,HG-1178,"Ceramic mixing bowls, set of 3",39.00,2026-09-13,,changed_mind,no,Too large for the space.,refunded
+CL-0078,2026-09-25,email,DH-484062,HG-4402,Oak side table,119.00,2026-09-04,2026-09-07,changed_mind,no,Too large for the space.,refunded
+CL-0079,2026-09-26,returns_form,DH-381198,HG-4402,Oak side table,238.00,2026-09-18,2026-09-22,damaged,yes,Shelf panel split along the grain.,refunded
+CL-0080,2026-09-27,returns_form,DH-451042,HG-4410,Folding bookshelf,94.00,2026-08-10,2026-08-14,damaged,yes,"Hinge bent, shelf does not fold flat.",open
+CL-0081,2026-09-27,email,DH-402119,HG-4402,Oak side table,119.00,2026-09-18,2026-09-23,changed_mind,no,Too large for the space.,refunded
+CL-0082,2026-09-28,returns_form,DH-429945,HG-1104,"Stoneware dinner plates, set of 4",42.00,2026-09-18,2026-09-22,damaged,yes,"Box wet, one jar shattered.",refunded
+CL-0083,2026-09-29,returns_form,DH-497799,HG-1150,"Cast iron skillet, 10 inch",36.00,2026-09-21,2026-09-24,changed_mind,no,"Found a different style, no longer needed.",open
+CL-0084,2026-09-29,email,DH-445813,HG-3301,"Linen duvet cover, queen",89.00,2026-08-26,2026-09-01,changed_mind,no,Gift that the recipient did not want.,open
+CL-0085,2026-09-30,email,DH-382334,HG-2207,Ceramic table lamp,64.00,2026-09-22,,wrong_item,no,Received a different size than ordered.,replaced

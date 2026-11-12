@@ -1,0 +1,17 @@
+From: Nora Lin <nora.lin@demoagency.example>
+To: Dana Whitfield <dana.whitfield@demohome.example>
+Subject: Complaint data for the autumn email campaign
+
+Hi Dana,
+
+We are starting the copy for DemoHome's autumn email campaign. To make the messages feel real, our writers would like to see what customers actually complain about.
+
+Could you send us your complaint log for Q3 (complaint-log.csv)? We will run it through our agency's AI workspace to pull out the main themes and a few phrases customers use. We only need it for this campaign.
+
+If it is easier, you could also share a link to the chat where you looked at the data.
+
+We would like to start on Monday, so anything you can send by Friday would be great.
+
+Best,
+Nora Lin
+Account Manager, DemoAgency
