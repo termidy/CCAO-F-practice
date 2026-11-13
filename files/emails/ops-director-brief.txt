@@ -1,11 +1,11 @@
-From: Elena Brooks <elena.brooks@demohome.example>
-To: Dana Whitfield <dana.whitfield@demohome.example>
+From: Operations Director <operations.director@demohome.example>
+To: Support Lead <support.lead@demohome.example>
 Subject: Let's have Claude handle returns
 
-Dana,
+Hi,
 
 The returns queue keeps growing and the answers still differ from agent to agent. Let's have Claude handle returns.
 
 Can you send me a plan by Friday?
 
-Elena
+Operations Director

@@ -1,8 +1,8 @@
-From: Nora Lin <nora.lin@demoagency.example>
-To: Dana Whitfield <dana.whitfield@demohome.example>
+From: Account Manager, DemoAgency <account.manager@demoagency.example>
+To: Support Lead <support.lead@demohome.example>
 Subject: Complaint data for the autumn email campaign
 
-Hi Dana,
+Hi,
 
 We are starting the copy for DemoHome's autumn email campaign. To make the messages feel real, our writers would like to see what customers actually complain about.
 
@@ -13,5 +13,4 @@ If it is easier, you could also share a link to the chat where you looked at the
 We would like to start on Monday, so anything you can send by Friday would be great.
 
 Best,
-Nora Lin
 Account Manager, DemoAgency

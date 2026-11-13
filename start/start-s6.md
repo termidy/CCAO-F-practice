@@ -26,4 +26,4 @@ When the content moves to a new form or gets shorter, check that the facts, the 
 ## Files you need in this section
 
 - `files/orders-export-raw.csv` (made-up personal data, for the de-identification practice only)
-- `files/emails/nora-lin-request.txt`, `files/memos/ai-use-policy.pdf`, `files/complaint-log.csv`
+- `files/emails/agency-request.txt`, `files/memos/ai-use-policy.pdf`, `files/complaint-log.csv`

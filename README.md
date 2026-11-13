@@ -31,7 +31,7 @@ DemoHome is an online store for home goods (lamps, kitchenware, textiles, small 
 | `files/memos/finance-memo-frequent-returns.pdf` | A one-page finance memo, "Frequent returns are a sign of abuse". | Section 5 |
 | `files/memos/ai-use-policy.pdf` | DemoHome's one-page AI use policy. | Section 6 |
 | `files/tasks/` | Task sheets: four tasks for four features, classification labels, reason codes, criteria for order-status replies. | Sections 2, 3, 5 |
-| `files/catch-up/` | If you join later: the checked complaint summary and the whole three-step chat from Section 2, as recorded. | Sections 3, 5, 7 |
+| `files/catch-up/` | If you join later: the checked complaint summary and the whole three-step chat from Section 2, and the requirements from Section 7, as recorded. | Sections 3, 5, 7, 8 |
 | `files/project/instruction-short.txt` | The first, short instruction of ShopAssist Returns. | Section 4 |
 | `files/drive/DemoHome Return Policy v2.docx` | Version 2 as a shared document for Google Drive. Its return shipping table is a picture. | Section 4 |
 

@@ -57,7 +57,7 @@ Start state: `start/start-s6.md`.
 | Lesson | Files |
 | --- | --- |
 | Practice: Claude App Hands-On - De-identifying an Order Export | `files/orders-export-raw.csv` (made-up personal data) |
-| Practice: Claude App Hands-On - An Agency Asks for the Complaint Log | `files/emails/nora-lin-request.txt`, `files/memos/ai-use-policy.pdf`, `files/complaint-log.csv` |
+| Practice: Claude App Hands-On - An Agency Asks for the Complaint Log | `files/emails/agency-request.txt`, `files/memos/ai-use-policy.pdf`, `files/complaint-log.csv` |
 
 ## Section 7 - Workflow Integration and Solution Design
 
@@ -65,8 +65,8 @@ Start state: `start/start-s7.md`.
 
 | Lesson | Files |
 | --- | --- |
-| Practice: Claude App Hands-On - From a One-Line Brief to Requirements and a Plan | `files/emails/elena-brief.txt`, `files/emails/elena-answers.txt`, your checked complaint summary from Section 2, `files/policy-v2.pdf` |
-| Practice: BUILD - ShopAssist Gets a Tested Returns Intake Prototype | ShopAssist Returns, the requirements from the lesson before (also in `start/start-s8.md`) |
+| Practice: Claude App Hands-On - From a One-Line Brief to Requirements and a Plan | `files/emails/ops-director-brief.txt`, `files/emails/ops-director-answers.txt`, your checked complaint summary from Section 2, `files/policy-v2.pdf` |
+| Practice: BUILD - ShopAssist Gets a Tested Returns Intake Prototype | ShopAssist Returns, the requirements from the lesson before (or `files/catch-up/requirements.md`) |
 
 ## Section 8 - Troubleshooting and Optimization
 
@@ -74,4 +74,4 @@ Start state: `start/start-s8.md`.
 
 | Lesson | Files |
 | --- | --- |
-| Practice: Claude App Hands-On - One Project, Three Faults | a copy of ShopAssist Returns with three faults (`start/start-s8.md`, "To repeat the troubleshooting practice"), `files/policy-v1.pdf`, `files/policy-v2.pdf` |
+| Practice: Claude App Hands-On - One Project, Two Faults | a copy of ShopAssist Returns with two faults (`start/start-s8.md`, "To repeat the troubleshooting practice"), `files/policy-v1.pdf`, `files/policy-v2.pdf`, `files/emails/lamp-day40-sharp.txt`, `files/emails/blanket-day20.txt` |

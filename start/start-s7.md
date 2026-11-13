@@ -24,17 +24,18 @@ Use this file if you start the course at Section 7. ShopAssist Returns is as in 
 ### Reply to the agency (draft, waiting for approval)
 
 ```text
-Hi Nora,
+Hi,
 
 Thank you for the request. We cannot send the complaint log itself: it is internal data, and our AI policy does not allow it to go to an outside workspace.
 
-What we can do: we will prepare a short summary of the main complaint themes, with no customer or order data, in our own account. Before it goes to you, it needs approval from Tom Hale, our privacy and compliance owner. We will send it once it is approved.
+What we can do: we will prepare a short summary of the main complaint themes, with no customer or order data, in our own account. Before it goes to you, it needs approval from our privacy and compliance lead. We will send it once it is approved.
 
 Best,
-Dana
+Support Lead, DemoHome
 ```
 
 ## Files you need in this section
 
-- `files/emails/elena-brief.txt`, `files/emails/elena-answers.txt`
+- `files/emails/ops-director-brief.txt`, `files/emails/ops-director-answers.txt`
+- `files/catch-up/requirements.md`: the use case and the checked acceptance criteria from "From a One-Line Brief to Requirements and a Plan", as recorded; the intake form practice starts from them
 - `files/policy-v2.pdf`, `files/complaint-log.csv`
